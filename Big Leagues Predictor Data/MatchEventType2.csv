@@ -1,0 +1,7 @@
+MatchEventTypeId,DisplayOrder,InternalName,DisplayName,DisplayNamePlural
+2,2,Shot,Shot,Shots
+3,3,CornerKick,Corner Kick,Corners
+4,4,Save,Save,Saves
+5,5,Foul,Foul,Fouls
+6,6,YellowCard,Yellow Card,Yellow Cards
+7,7,RedCard,Red Card,Red Cards

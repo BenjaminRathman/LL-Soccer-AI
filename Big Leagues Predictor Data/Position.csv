@@ -1,0 +1,56 @@
+PositionId,LeagueId,ActiveStart,ActiveEnd,IsPlayer,IsCoach,IsExecutive,DisplayName,DisplayDescription,SportId
+0,NULL,0001-01-01,9999-12-31,0,0,0,Unknown,Unknown,1
+1,1,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+2,1,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+3,1,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+4,1,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+5,1,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+6,2,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+7,2,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+8,2,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+9,2,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+10,2,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+11,1,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+12,1,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+13,1,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+14,1,0001-01-01,9999-12-31,0,0,1,Director,Director,1
+15,2,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+16,2,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+17,2,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+18,2,0001-01-01,9999-12-31,0,0,1,Director,Director,1
+19,3,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+20,3,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+21,3,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+22,3,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+23,3,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+24,3,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+25,3,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+26,3,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+27,3,0001-01-01,9999-12-31,0,0,1,Director,Director,1
+28,4,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+29,4,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+30,4,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+31,4,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+32,4,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+33,4,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+34,4,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+35,4,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+36,4,0001-01-01,9999-12-31,0,0,1,Director,Director,1
+37,5,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+38,5,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+39,5,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+40,5,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+41,5,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+42,5,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+43,5,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+44,5,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+45,5,0001-01-01,9999-12-31,0,0,1,Director,Director,1
+46,6,0001-01-01,9999-12-31,1,0,0,Striker,Striker,1
+47,6,0001-01-01,9999-12-31,1,0,0,Wing,Wing,1
+48,6,0001-01-01,9999-12-31,1,0,0,Midfield,Midfield,1
+49,6,0001-01-01,9999-12-31,1,0,0,Defender,Defender,1
+50,6,0001-01-01,9999-12-31,1,0,0,Goalkeeper,Goalkeeper,1
+51,6,0001-01-01,9999-12-31,0,1,0,Head Coach,Head Coach,1
+52,6,0001-01-01,9999-12-31,0,1,0,Assistant Head Coach,Assistant Head Coach,1
+53,6,0001-01-01,9999-12-31,0,1,0,Assistant Coach,Assistant Coach,1
+54,6,0001-01-01,9999-12-31,0,0,1,Director,Director,1

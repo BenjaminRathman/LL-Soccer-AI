@@ -1,0 +1,276 @@
+FieldId,ComplexId,DisplayName,DisplayDescription,LocationUrl,Active
+1,1,Annville-Cleona High School Stadium,Annville-Cleona High School Stadium,"https://www.google.com/maps/place/Annville-Cleona+High+School/@40.3241705,-76.5109026,17z/data=!3m1!4b1!4m5!3m4!1s0x89c8a628db7a671d:0x54e8f5d86143c42f!8m2!3d40.3241664!4d-76.5087086",1
+2,2,CCHS Stadium,CCHS Stadium,"https://www.google.com/maps/place/Cedar+Crest+High+School/@40.311142,-76.4010915,17z/data=!3m1!4b1!4m5!3m4!1s0x89c61cd2092df683:0x1704fa83dfbbb819!8m2!3d40.3111379!4d-76.3988975",1
+3,3,Talon Field - Turf,Talon Field - Turf,"https://www.google.com/maps/place/810+S+4th+St,+Denver,+PA+17517/@40.2257564,-76.1565286,17z/data=!3m1!4b1!4m5!3m4!1s0x89c613be390e5703:0x8ee7fb956ffb01c0!8m2!3d40.2257523!4d-76.1543346",1
+4,4,CV Stadium,CV Stadium,"https://www.google.com/maps/place/2110+Horseshoe+Rd,+Lancaster,+PA+17601/@40.0503909,-76.2231227,17z/data=!3m1!4b1!4m5!3m4!1s0x89c63b80f29acd9f:0x3252c99c8ec7250b!8m2!3d40.0503909!4d-76.220934",1
+5,4,Soccer Field (Varsity),Soccer Field (Varsity),"https://www.google.com/maps/place/2110+Horseshoe+Rd,+Lancaster,+PA+17601/@40.0503909,-76.2231227,17z/data=!3m1!4b1!4m5!3m4!1s0x89c63b80f29acd9f:0x3252c99c8ec7250b!8m2!3d40.0503909!4d-76.220934",1
+6,5,Donegal Athletic Stadium,Donegal Athletic Stadium,"https://www.google.com/maps/place/1025+Koser+Rd/@40.0958422,-76.5103516,862m/data=!3m1!1e3!4m6!3m5!1s0x89c89e855c862d55:0xf9ade58799f5cf70!4b1!8m2!3d40.0964588!4d-76.5130539",1
+7,5,Soccer Varsity Field at DPS,Soccer Varsity Field at DPS,"https://www.google.com/maps/place/1025+Koser+Rd/@40.0958422,-76.5103516,862m/data=!3m1!1e3!4m6!3m5!1s0x89c89e855c862d55:0xf9ade58799f5cf70!4b1!8m2!3d40.0964588!4d-76.5130539",1
+8,6,Stadium,Stadium,"https://www.google.com/maps/place/180+Elco+Dr,+Myerstown,+PA+17067/@40.344991,-76.2904669,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6059c1fc9824b:0x30e6096301cdc6fd!8m2!3d40.344991!4d-76.2882782",1
+9,6,Upper Soccer Field,Upper Soccer Field,"https://www.google.com/maps/place/180+Elco+Dr,+Myerstown,+PA+17067/@40.344991,-76.2904669,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6059c1fc9824b:0x30e6096301cdc6fd!8m2!3d40.344991!4d-76.2882782",1
+10,7,Mountaineer Field - MS Campus - 957 Harmon Ave.,Mountaineer Field - MS Campus - 957 Harmon Ave.,"https://www.google.com/maps/place/Mountaineer+Field/@40.1819534,-76.1958904,431m/data=!3m1!1e3!4m5!3m4!1s0x89c61693d971a521:0x1307dcc5127c13d7!8m2!3d40.1828188!4d-76.1960639",1
+11,7,War Memorial Field,War Memorial Field,"https://www.google.com/maps/place/Ephrata+War+Memorial+Field/@40.1820111,-76.1926928,861m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89c616909bdbeef9:0x9316babd7393d6a3!8m2!3d40.182007!4d-76.1905041",1
+12,8,Exeter Junior High School Field,Exeter Junior High School Field,"https://www.google.com/maps/search/Exeter+Junior+High+Schol/@40.3167622,-75.8681966,17z/data=!3m1!4b1?hl=en",1
+13,9,Quad (South) - Field 7,Quad (South) - Field 7,"https://www.google.com/maps/dir//40.0861203,-76.4103743/@40.0874172,-76.4129171,827m/data=!3m1!1e3!4m2!4m1!3e0",1
+14,9,Stadium (Turf) - Field 16,Stadium (Turf) - Field 16,"https://www.google.com/maps/place/200+Stanley+Ave,+Landisville,+PA+17538/@40.0915739,-76.4146537,17z/data=!3m1!4b1!4m5!3m4!1s0x89c620dee194008f:0x1b25465c94ef1105!8m2!3d40.0915739!4d-76.412465",1
+15,10,Stadium Complex Crusader Stadium,Stadium Complex Crusader Stadium,"https://www.google.com/maps/place/1251+Marshall+Ave,+Lancaster,+PA+17601/@40.0582586,-76.3016444,17z/data=!4m5!3m4!1s0x89c6249c13493247:0xc1f723f6bc72e40b!8m2!3d40.0564356!4d-76.3014084",1
+17,12,Turf Field,Turf Field,"https://www.google.com/maps/place/2176+Lincoln+Hwy+E,+Lancaster,+PA+17602/@40.0263165,-76.2303534,16z/data=!3m1!4b1!4m5!3m4!1s0x89c63b09ec792265:0x9c466089c1d43be7!8m2!3d40.0260156!4d-76.2261852",1
+18,13,Alumni Stadium,Alumni Stadium,"https://www.google.com/maps/dir/''/350+North+8th+Street,+Lebanon,+PA+17046/@40.3436215,-76.4239506,859m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x89c602ef08d859d5:0x2121a578e414ab72!2m2!1d-76.4237661!2d40.3444971",1
+19,13,Lower Wilhelm Field @ LHS,Lower Wilhelm Field @ LHS,"https://www.google.com/maps/dir/40.319917,-76.4170188//@40.3214745,-76.4213097,1719m/data=!3m1!1e3",1
+20,14,Doe Run Elementary Graybill Fields,Doe Run Elementary Graybill Fields,"https://www.google.com/maps/dir//40.1745423,-76.3721393/@40.174542,-76.372139,1723m/data=!3m1!1e3?hl=en-US",1
+21,14,Rettew Stadium Complex Turf Field,Rettew Stadium Complex Turf Field,"https://www.google.com/maps/dir//40.1691842,-76.3910392/@40.16902,-76.390934,16z?hl=en-US",1
+22,15,Ed Journey Field,Ed Journey Field,"https://www.google.com/maps/place/115+Blue+Streak+Blvd,+Lancaster,+PA+17601/@40.1027648,-76.3018084,17z/data=!3m1!4b1!4m5!3m4!1s0x89c622e1f84bd517:0xa7894e9d3ba0bd59!8m2!3d40.1027607!4d-76.2996197",1
+23,16,North Allegheny Intermediate School,North Allegheny Intermediate School,"https://www.google.com/maps/search/+350+Cumberland+Road,+Pittsburgh,+PA+15237/@40.5707795,-80.0336193,856m/data=!3m2!1e3!4b1?hl=en",1
+24,17,Stadium - 1,Stadium - 1,"https://www.google.com/maps/place/345+School+Dr,+Fredericksburg,+PA+17026/@40.433948,-76.4518546,16z/data=!3m1!4b1!4m5!3m4!1s0x89c601d1a0e46fb1:0xafa14b1092fdf715!8m2!3d40.4332784!4d-76.446909",1
+25,17,V/JV Soccer - 6,V/JV Soccer - 6,"https://www.google.com/maps/place/345+School+Dr,+Fredericksburg,+PA+17026/@40.4327414,-76.4477803,858m/data=!3m1!1e3!4m5!3m4!1s0x89c601d1a0e46fb1:0xafa14b1092fdf715!8m2!3d40.4332784!4d-76.446909",1
+26,18,Middle School Stadium,Middle School Stadium,"https://www.google.com/maps/place/87+Highland+Rd,+Atglen,+PA+19310/@39.9327471,-75.9437177,17z/data=!3m1!4b1!4m5!3m4!1s0x89c64f815b4b2cef:0x9f99c38b744b1404!8m2!3d39.932743!4d-75.941529",1
+27,19,Comet Venue Turf Field,Comet Venue Turf Field,"https://www.google.com/maps/place/1800+Millersville+Rd,+Lancaster,+PA+17603/@40.0063692,-76.3442483,17z/data=!3m1!4b1!4m5!3m4!1s0x89c625c022718d7d:0x62e7bcb7bf225106!8m2!3d40.0063651!4d-76.3420596",1
+28,20,Field 1-Turf Stadium,Field 1-Turf Stadium,"https://www.google.com/maps/place/Pequea+Valley+High+School/@40.0209035,-76.0683936,863m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89c647465b79fde9:0x8b8d2ad8f4be30aa!8m2!3d40.0208994!4d-76.0662049",1
+29,21,Soccer Field 1 Game Field,Soccer Field 1 Game Field,"https://www.google.com/maps/place/585+Solanco+Rd,+Quarryville,+PA+17566/@39.8664495,-76.1569532,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6343e195ba575:0xc7977793e4e41815!8m2!3d39.8667518!4d-76.1544619",1
+30,22,Field 9 & 10,Field 9 & 10,"https://www.google.com/maps/place/301+W+Orange+St,+Lititz,+PA+17543/@40.1556085,-76.3165265,17z/data=!3m1!4b1!4m5!3m4!1s0x89c61863033cb149:0xa9c434d79c635edf!8m2!3d40.1556085!4d-76.3143378",1
+31,22,Warwick Turf,Warwick Turf,"https://www.google.com/maps/place/301+W+Orange+St,+Lititz,+PA+17543/@40.1556085,-76.3165265,17z/data=!3m1!4b1!4m5!3m4!1s0x89c61863033cb149:0xa9c434d79c635edf!8m2!3d40.1556085!4d-76.3143378",1
+32,23,Wilson Soccer Field,Wilson Soccer Field,"https://www.google.com/maps/place/2601+Grandview+Blvd,+Reading,+PA+19609/@40.3309445,-76.0027531,17z/data=!3m1!4b1!4m5!3m4!1s0x89c673e681e38b3f:0x36a0b2d38ecbd61a!8m2!3d40.3309445!4d-76.0005644",1
+33,24,Varsity Soccer Field,Varsity Soccer Field,"https://www.google.com/maps/place/445+N+Reservoir+St,+Lancaster,+PA+17602/@40.0468693,-76.2908346,863m/data=!3m1!1e3!4m5!3m4!1s0x89c624bcf1d6e9f7:0x6e6d57abc0fb5408!8m2!3d40.048071!4d-76.29045",1
+34,25,Jane Hoover Field,Jane Hoover Field,"https://www.google.com/maps/place/Elizabethtown+Area+High+School/@40.1556549,-76.5960826,862m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89c898f5412f46f5:0x43ccea809cf0c580!8m2!3d40.1556508!4d-76.5938939",1
+35,26,Pioneer Turf - Field 2,Pioneer Turf - Field 2,"https://www.google.com/maps/place/1600+Book+Rd,+Lancaster,+PA+17602/@39.9956591,-76.2402359,16z/data=!3m1!4b1!4m5!3m4!1s0x89c63af2876f48f3:0x84bcbbb867f2c2a3!8m2!3d39.9968503!4d-76.2348763",1
+36,26,Pioneer Turf - Stadium Field 1,Pioneer Turf - Stadium Field 1,"https://www.google.com/maps/place/1600+Book+Rd,+Lancaster,+PA+17602/@39.9956591,-76.2402359,16z/data=!3m1!4b1!4m5!3m4!1s0x89c63af2876f48f3:0x84bcbbb867f2c2a3!8m2!3d39.9968503!4d-76.2348763",1
+37,27,Football Stadium,Football Stadium,"https://www.google.com/maps/place/Garden+Spot+High+School/@40.1109108,-76.0715434,827m/data=!3m1!1e3!4m5!3m4!1s0x89c6401c56825029:0x882c0ba0e01e02f4!8m2!3d40.1114606!4d-76.0694084",1
+38,28,Daniel Boone High School Turf,Daniel Boone High School Turf,"https://www.google.com/maps/place/501+Chestnut+St,+Birdsboro,+PA+19508/@40.2582641,-75.8013169,17z/data=!3m1!4b1!4m5!3m4!1s0x89c67ca3b1889d95:0xa9251eb66c2a66d3!8m2!3d40.2582641!4d-75.7991282",1
+39,18,Octorara Football Stadium,Octorara Football Stadium,"https://www.google.com/maps/place/226+Highland+Rd,+Atglen,+PA+19310/@39.9277468,-75.9510218,17z/data=!3m1!4b1!4m5!3m4!1s0x89c64f7786ccd66f:0x76fa60a5591734be!8m2!3d39.9277468!4d-75.9488331",1
+40,29,Lebanon Area Evangelical,Lebanon Area Evangelical,"https://www.google.com/maps/place/600+Shepherd+St,+Jonestown,+PA+17038/@40.4079999,-76.4936498,858m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89c8aa2886946e71:0x6b7862b459160ed5!8m2!3d40.4079958!4d-76.4914611?hl=en",1
+41,30,High School Stadium,High School Stadium,"https://www.google.com/maps/place/44+Big+Spring+Rd,+Robesonia,+PA+19551/@40.3482852,-76.1213184,859m/data=!3m2!1e3!4b1!4m5!3m4!1s0x89c60c904a391f0d:0xd0a2ccd86077c1b3!8m2!3d40.3482811!4d-76.1191297",1
+42,31,North Allegheny Intermediate School,North Allegheny Intermediate School,"https://www.google.com/maps/search/+350+Cumberland+Road,+Pittsburgh,+PA+15237/@40.5707795,-80.0336193,856m/data=!3m2!1e3!4b1?hl=en",1
+43,11,Lancaster Country Day School Field 4,Lancaster Country Day School Field 4,"https://www.google.com/maps/place/725+Hamilton+Rd/@40.0509251,-76.3284381,414m/data=!3m1!1e3!4m6!3m5!1s0x89c62465eb6c9b7f:0x449790c3d7741fcf!4b1!8m2!3d40.0509709!4d-76.3277276",1
+45,9,Quad (North) - Field 6,Quad (North) - Field 6,https://www.google.com,1
+46,33,Governor Mifflin Stadium,Governor Mifflin Stadium,https://www.google.com,1
+47,34,Landis Field - Stadium,Landis Field - Stadium,https://www.google.com,1
+48,35,Soccer Field,New Field - Soccer Field,https://www.google.com,1
+49,15,Gene Kruis Field at War Memorial Stadium,Gene Kruis Field at War Memorial Stadium,https://www.google.com,1
+50,37,PIT Reservoir Turf Field,PIT Reservoir Turf Field,https://www.google.com,1
+52,38,Horn Field,Horn Field,https://www.google.com,1
+53,39,322 Turf Field,322 Turf Field,https://www.google.com,1
+54,2,Turtle Field,Turtle Field,https://www.google.com,1
+55,40,Unknown,unknown,https://www.google.com,1
+56,41,Cedar Cliff - Lowther Field,Cedar Cliff - Lowther Field,https://www.google.com,1
+57,4,New Turf 1 - Closer to Parking Lot,New Turf 1 - Closer to Parking Lot,https://www.google.com,1
+58,42,Soccer Field,Soccer Field,https://www.google.com,1
+59,24,Biemersderfer Stadium,Biemersderfer Stadium,https://www.google.com,1
+60,43,Lower Dauphin High School,Lower Dauphin High School,https://www.google.com,1
+61,44,Quarry Soccer Field,Quarry Soccer Field,https://www.google.com,1
+62,8,Exeter High School Stadium,Exeter High School Stadium,https://www.google.com,1
+63,45,Soccer Field,Soccer Field,https://www.google.com,1
+64,27,Water Tower Soccer,Water Tower Soccer,https://www.google.com,1
+65,46,Turf Field,Turf Field,https://www.google.com,1
+66,47,Graybill Fields Soccer 1,Graybill Fields Soccer 1,https://www.google.com,1
+67,48,Stadium,Stadium,https://www.google.com,1
+68,49,Soccer LAX Field,Soccer LAX Field,https://www.google.com,1
+69,50,Turf Field,Turf Field,https://www.google.com,1
+70,51,HS Stadium,HS Stadium,https://www.google.com,1
+71,21,Stadium,Stadium,https://www.google.com,1
+72,52,Soccer Field,Soccer Field,https://www.google.com,1
+73,53,Forino Sports Complex,Forino Sports Complex,"https://www.google.com/maps/place/Forino+Sports+Complex/@40.3234396,-75.9465437,709m/data=!3m1!1e3!4m6!3m5!1s0x89c6714cce2c6271:0xb66eb3a032468f36!8m2!3d40.3241261!4d-75.9444122!16s%2Fg%2F11hzmpjkdq?entry=ttu",1
+74,54,Field #1,Field #1,https://www.google.com,1
+75,55,Hilltop ES,Hilltop ES,https://www.google.com,1
+76,56,Grass Field,Grass Field,https://www.google.com,1
+77,28,Track Turf Field,Track Turf Field,https://www.google.com,1
+78,57,Hope Born in Christ Church,Hope Born in Christ Church,https://www.google.com,1
+79,58,Devon Prep School,Devon Prep School,https://www.google.com,1
+81,60,John Gross Field at George R. Saxton Jr. Memorial Stadium,John Gross Field at George R. Saxton Jr. Memorial Stadium,https://www.google.com,1
+83,62,Stadium,Stadium,https://www.google.com,1
+84,63,Stadium,Stadium,https://www.google.com,1
+85,64,Harrisburg Christian,Harrisburg Christian,https://www.google.com,1
+86,65,KD Multi Purpose Field,KD Multi Purpose Field,https://www.google.com,1
+87,66,Stadium,Stadium,https://www.google.com,1
+88,67,Leola Campus - Varsity Field #1,Leola Campus - Varsity Field #1,https://www.google.com,1
+89,1,Varsity Soccer,Varsity Soccer,"https://www.google.com/maps/place/520+S+White+Oak+St,+Annville,+PA+17003/@40.323506,-76.5102422,862m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c8a62bdd364cab:0x5fbd91d6f71f2880!8m2!3d40.324044!4d-76.5076335!16s%2Fg%2F11b8v79q_6?hl=en&entry=ttu",1
+90,17,Varsity Turf Field #2,Varsity Turf Field #2,https://www.google.com,1
+91,18,Gene Davis Memorial Stadium,Gene Davis Memorial Stadium,https://www.google.com,1
+92,68,Football Stadium,Football Stadium,https://www.google.com,1
+93,69,Stadium,Stadium,https://www.google.com,1
+94,70,HS Stadium #1,HS Stadium #1,https://www.google.com,1
+95,70,Stadium,Stadium,https://www.google.com,1
+96,71,Warrior Stadium Field,Warrior Stadium Field,https://www.google.com,1
+98,72,HS Soccer Field,HS Soccer Field,"https://www.google.com/maps?q=100+Mt+Rock+Rd+Newville,+Pennsylvania+17241",1
+99,73,Rocco Ortenzio Stadium,Rocco Ortenzio Stadium,"https://www.google.com/maps/place/Rocco+Ortenzio+Stadium/@40.2750599,-76.7952627,359m/data=!3m1!1e3!4m6!3m5!1s0x89c8bf7a5e8ec361:0xe63fa6ee5e1ae271!8m2!3d40.2747222!4d-76.7944723!16s%2Fg%2F11j0qhxmd2?entry=ttu",1
+100,74,Middle Soccer Field,Middle Soccer Field,"https://www.google.com/maps/place/200+W+Weis+St,+Topton,+PA+19562/@40.4963618,-75.7056291,860m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c42ccf7117a7cf:0xdc45a43b1aeadb54!8m2!3d40.4963618!4d-75.7030542!16s%2Fg%2F11b8v4sxl1?entry=ttu",1
+101,34,Central Dauphin - Fields,Central Dauphin - Fields,https://www.google.com,1
+102,52,Stadium,Stadium,https://www.google.com,1
+103,42,HS Stadium,HS Stadium,https://www.google.com,1
+104,75,"UTZ Field Kindig Lane ",UTZ Field Kindig Lane (behind UTZ Dock),https://www.google.com,1
+105,5,Senior HS Practice Field,Senior HS Practice Field,https://www.google.com,1
+106,39,Soccer Field,Soccer Field,https://www.google.com,1
+107,76,In The Net,In The Net,https://www.google.com,1
+108,65,Stadium,Stadium,https://www.google.com,1
+109,77,LH #1,LH #!,https://www.google.com,1
+110,43,Middle Kreiser Hallman East Turf Field,Middle Kreiser Hallman East Turf Field,https://www.google.com,1
+111,78,Middletown,Middletown,https://www.google.com,1
+112,78,Memorial Field,Memorial Field,https://www.google.com,1
+113,79,Soccer Grass Field - Homestead Lane,"Soccer Grass Field - Homestead Lane, Hershey PA 17033",https://www.google.com,1
+114,80,Track Turf Field,Track Turf Field,https://www.google.com,1
+115,81,Oxford,Oxford,https://www.google.com,1
+116,37,Citadel,Citadel,https://www.google.com,1
+117,38,Junior Soccer LAX Field,Junior Soccer LAX Field,https://www.google.com,1
+118,82,Stadium,Stadium,https://www.google.com,1
+119,83,Siebert Park,Siebert Park,"https://www.google.com/maps/place/Siebert+Park/@40.2505358,-76.9288655,659m/data=!3m1!1e3!4m6!3m5!1s0x89c8c22db7c13843:0xf25a2748534c611e!8m2!3d40.2505739!4d-76.9271775!16s%2Fg%2F1tr7kc4h?entry=ttu",1
+120,84,Stadium,Stadium,https://www.google.com,1
+121,85,Stadium,Stadium,https://www.google.com,1
+122,86,Pfaultz Field,Pfaultz Field,https://www.google.com,1
+123,87,COBO Field,COBO Field,https://www.google.com,1
+124,88,HS Stadium,HS Stadium,https://www.google.com,1
+125,23,Gurski Field,Gurski Field,https://www.google.com,1
+126,44,Flannery Field Track,Flannery Field Track,https://www.google.com,1
+127,89,YCD Soccer Field,YCD Soccer Field,https://www.google.com,1
+128,90,Stadium,Stadium,https://www.google.com,1
+129,11,Field 1,Field 1,https://www.google.com,1
+130,91,Wilson Middle School - WMS Field,Wilson Middle School - WMS Field,"https://www.google.com/maps/place/Wilson+Middle+School/@40.212334,-77.2135637,3342m/data=!3m1!1e3!4m5!3m4!1s0x89c91fd197c2ac47:0x1a0e03a5a8b13d68!8m2!3d40.2125388!4d-77.2062037",1
+131,92,Harrisburg High School,Harrisburg High School,"https://www.google.com/maps/search/Harrisburg+High+School/@40.2656905,-76.8727601,15z/data=!3m1!4b1",1
+132,93,Z3,Z3,http://www.google.com,1
+133,94,Lowther Sports Complex - Lowther Field,Lowther Field,http://www.google.com,1
+134,95,Field A,Field A,http://www.google.com,1
+135,76,OAL Sports Complex - Belair Field,OAL Sports Complex - Belair Field,http://www.google.com,1
+136,96,William Penn Senior High School - Soccer Field,William Penn Senior High School - Soccer Field,http://maps.google.com,1
+137,24,McCaskey East- Field D,JP McCaskey High School McCaskey East- Field D,"https://www.google.com/maps/place/445+N+Reservoir+St,+Lancaster,+PA+17602/@40.048071,-76.292644,17z/data=!3m1!4b1!4m5!3m4!1s0x89c624bcf1d6e9f7:0x6e6d57abc0fb5408!8m2!3d40.048071!4d-76.29045",1
+138,98,"King Field, Stadium","King Field, Stadium",http://www.google.com,1
+139,99,Lower Field,Lower Field,http://www.google.com,1
+140,100,Soccer Field 1,Soccer Field 1,http://maps.google.com,1
+141,101,Stadium,Stadium,http://maps.google.com,1
+142,102,Turf Field,Turf Field,http://maps.google.com,1
+143,29,LAEF Church,LAEF Church,https://goo.gl/maps/S3sgTsNkaZvDcFmm7,1
+144,29,NCCS - 452 Ebenezer Road,NCCS - 452 Ebenezer Road,http://maps.google.com,1
+145,103,Eagle View - Turf Field,Eagle View - Turf Field,http://maps.google.com,1
+146,104,CASHS Trojan Stadium,CASHS Trojan Stadium,http://maps.google.com,1
+147,4,LOG Turf 2 (closer to new middle school),LOG Turf 2 (closer to new middle school),http://maps.google.com,1
+148,105,Soccer Field,Soccer Field,http://maps.google.com,1
+149,56,Multi Purpose Field,Multi Purpose Field,http://maps.google.com,1
+150,91,CASD Multisport Turf,CASD Multisport Turf,http://maps.google.com,1
+151,23,Bulldog Field,Bulldog Field,https://www.google.com/,1
+152,107,Buchanan Automotive Stadium,Buchanan Automotive Stadium,https://www.google.com/,1
+153,55,Stadium,Stadium,https://www.google.com/,1
+154,73,Perfect Game Softball Field,Perfect Game Softball Field,"https://www.google.com/maps/place/1+Crusader+Way,+Harrisburg,+PA+17111/@40.2748144,-76.7961802,863m/data=!3m1!1e3!4m6!3m5!1s0x89c8bf31fde1c153:0xf0a7483b5a1204f7!8m2!3d40.2748144!4d-76.7916312!16s%2Fg%2F11bw4jb05l?entry=ttu",1
+155,108,Soccer Field,Soccer Field,https://www.google.com/,1
+156,109,Multi-Purpose Field,Multi-Purpose Field,https://www.google.com/?client=safari,1
+157,110,Football Stadium,Football Stadium,https://www.google.com/?client=safari,1
+158,112,Musselman Field,Musselman Field,https://www.google.com/?client=safari,1
+159,113,Leola Campus Varsity Field 1,Leola Campus Varsity Field 1,https://www.google.com/?client=safari,1
+160,114,Newman Rd Field,"Lewisburg HS Newman Rd Field
+41 North Front Street Lewisburg, Pennsylvania 17837",http://www.google.com,1
+161,115,Northside Elementary Soccer Field,Northside Elementary Soccer Field,http://maps.google.com,1
+162,116,Spring Grove High School,Spring Grove High School,https://maps.google.com,1
+163,41,Soccer Field,Soccer Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+164,92,Stadium,Stadium,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+165,2,Basin Field,Basin Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+166,33,Multi-Purpose Turf Field,Multi-Purpose Turf Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+167,94,West Shore Stadium,West Shore Stadium,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+168,60,Panther Parkway Field,Panther Parkway Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+169,118,Stadium,Stadium,"https://www.google.com/maps/place/Bud+Ecker+Field/@40.1520257,-77.1380787,763m/data=!3m1!1e3!4m9!1m2!2m1!1sboiling+springs+hs!3m5!1s0x89c8e3925741f15b:0x551b1dfdfade005c!8m2!3d40.1518755!4d-77.1364643!16s%2Fg%2F11h4y2n9pk?entry=ttu",1
+170,119,Soccer Field,Soccer Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+171,120,Avon Grove High School,Avon Grove High School,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+172,121,Soccer Field,Soccer Field,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+173,78,Turf Field 3/4,Turf Field 3/4,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+174,122,Stadium,Stadium,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+175,81,Stadium,Stadium,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+176,74,Unknown,Unknown,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+177,75,TBA,TBA,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+178,123,Unknown,Unknown,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+179,124,TBA,TBA,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,1
+180,125,Lower Turf,Lower Turf,https://maps.app.goo.gl/C2GU9V8GkWWdd99FA,1
+181,45,MS Turf Field,MS Turf Field,https://www.google.com/,1
+182,126,Field #1,Field #1,https://www.google.com/,1
+183,127,Soccer Stadium,Soccer Stadium,"https://www.google.com/maps/place/PHS+Stadium/@40.6394884,-75.5624413,16z/data=!4m9!1m2!2m1!1sParkland+High+School+pa!3m5!1s0x89c4370d54e1d7e5:0x5ee761dd6b4ecb64!8m2!3d40.6394882!4d-75.5534286!16s%2Fg%2F11gh04llpg?entry=ttu",1
+184,128,EHS Memorial Field,EHS Memorial Field,https://www.google.com/,1
+185,129,Athletic Complex Grass Soccer Field,Athletic Complex Grass Soccer Field,https://www.google.com/,1
+186,130,Falcon Field,Falcon Field,https://www.google.com/,1
+187,34,Turf Stadium,Turf Stadium,https://www.google.com/,1
+188,131,North Turf Field,North Turf Field,https://www.google.com/,1
+189,25,Thompson Field,Thompson Field,https://www.google.com/,1
+190,134,Crossroads MS,Crossroads MS,https://www.google.com/,1
+191,135,HS Field,HS Field,https://www.google.com/,1
+192,103,Mountain View Track/Turf,Mountain View Track/Turf,https://www.google.com/,1
+193,116,Papermakers Stadium,Papermakers Stadium,https://www.google.com/,1
+194,136,Memorial Park Stadium,Memorial Park Stadium,"https://www.google.com/maps/place/Memorial+Park+Dr,+Mechanicsburg,+PA+17055/@40.2143741,-77.0194711,17.1z/data=!4m6!3m5!1s0x89c8e7e4ef335c63:0x48f6f0da6b05fb2d!8m2!3d40.2143779!4d-77.0185786!16s%2Fg%2F1tfscttp?entry=ttu",1
+195,137,Balls Mills Complex,Balls Mills Complex,"https://www.google.com/maps?q=2925+Lycoming+Creek+Road+Williamsport,+Pennsylvania+17701",1
+196,138,Mansion Park,Mansion Park,"https://www.google.com/maps/place/Mansion+Park/@40.4900459,-78.4107728,17z/data=!3m1!4b1!4m6!3m5!1s0x89cb910c792ebcc5:0xedec00b395ca104f!8m2!3d40.4900459!4d-78.4107728!16s%2Fg%2F1tcvcwdd?entry=ttu",1
+197,54,David Alexander Complex - Turf,David Alexander Complex - Turf,"https://www.google.com/maps/place/626+Rutherford+Rd,+Harrisburg,+PA+17109/@40.2844702,-76.8022649,17z/data=!3m1!4b1!4m6!3m5!1s0x89c8b8cbb2471587:0xb06293c3b6eb17a0!8m2!3d40.2844702!4d-76.79969!16s%2Fg%2F11b8_ny43_?entry=ttu",1
+198,139,Turf Field,Turf Field,"https://www.google.com/maps/place/653+S+Baltimore+St,+Dillsburg,+PA+17019/@40.0963339,-77.030719,17z/data=!3m1!4b1!4m6!3m5!1s0x89c8e56df1146667:0xf745eba7471df0ca!8m2!3d40.0963339!4d-77.0281441!16s%2Fg%2F11csljz2j_?entry=ttu",1
+199,71,Soccer Game Field,Soccer Game Field,https://www.google.com/,1
+200,14,MS Baron Field Stadium,MS Baron Field Stadium,https://www.google.com/,1
+201,140,Roscoe Warner Field,Roscoe Warner Field,https://www.google.com/,1
+202,107,Buchanan Automotive Stadium Lower Grass,Buchanan Automotive Stadium Lower Grass,https://www.google.com/,1
+203,141,James Buchanan Soccer Complex,James Buchanan Soccer Complex,https://www.google.com/,1
+204,142,Stadium,Stadium,https://www.google.com/,1
+205,143,North Field,North Field,https://www.google.com/,1
+206,144,MS Varsity Soccer Field,MS Varsity Soccer Field,https://www.google.com/,1
+207,145,Stadium,Stadium,https://www.google.com/,1
+208,143,Kaley Field,Kaley Field,https://www.google.com/,1
+209,146,Stadium,Stadium,https://www.google.com/,1
+210,147,TBA,TBA,https://www.google.com/,1
+211,145,HS Soccer Field,HS Soccer Field,https://www.google.com/,1
+212,142,Soccer Field,Soccer Field,https://www.google.com/,1
+213,148,HS Soccer Field,HS Soccer Field,https://www.google.com/,1
+214,72,Stadium,Stadium,"https://www.google.com/maps/place/Big+Spring+High+School+Stadium/@40.1819963,-77.4072306,6570m/data=!3m1!1e3!4m6!3m5!1s0x89c911bf1a773e43:0x9817451699b035a5!8m2!3d40.1770217!4d-77.384386!16s%2Fg%2F11mtjflgcl?entry=ttu",1
+215,149,Malinak Stadium,Malinak Stadium,https://www.google.com/,1
+216,72,Soccer Practice Field,Soccer Practice Field,"https://www.google.com/maps?q=100+Mt+Rock+Rd+Newville,+Pennsylvania+17241",1
+217,140,MS Soccer Game Field,MS Soccer Game Field,https://www.google.com/,1
+218,79,Henry Hershey Field,Henry Hershey Field,https://www.google.com/,1
+219,150,Stadium,Stadium,https://www.google.com/,1
+220,13,Cedar Sports Complex Turf,Cedar Sports Complex Turf,https://www.google.com/,1
+221,26,JV Soccer Field - Below Track #7,JV Soccer Field - Below Track #7,https://www.google.com/,1
+222,152,TBA,TBA,https://www.google.com/,1
+223,16,Newman Stadium,Newman Stadium,https://www.google.com/,1
+224,154,Varsity Field #1,Varsity Field #1,https://www.google.com/,1
+225,155,TBA,TBA,https://www.google.com/,1
+226,90,Trojan Field,Trojan Field,https://www.google.com/,1
+227,156,Juniata Elementary Fields,Juniata Elementary Fields,https://www.google.com/,1
+228,157,TBA,TBA,https://www.google.com/,1
+229,158,TBA,TBA,https://www.google.com/,1
+230,159,Stadium,Stadium,https://www.google.com/,1
+231,86,Stadium,Stadium,https://www.google.com/,1
+232,160,Stadium,Stadium,https://www.google.com/,1
+233,162,Field #1,Field #1,https://www.google.com/,1
+234,163,Field #1,Field #1,https://www.google.com/,1
+235,164,Soccer Field 1,Soccer Field 1,https://www.google.com/,1
+236,166,A-Field - Upper Soccer Field,A-Field - Upper Soccer Field,"https://www.google.com/maps?q=100+High+Street+Reading,+Pennsylvania+19606",1
+237,167,Soccer Field,Soccer Field,https://www.google.com/,1
+238,75,J.T. Flaherty Field,J.T. Flaherty Field,https://www.google.com/,1
+239,100,Football Stadium,Football Stadium,https://www.google.com/,1
+240,168,TBA,TBA,https://www.google.com/,1
+241,169,Nazareth MS Field,Nazareth MS Field,https://www.google.com/,1
+242,170,DiSerafino Stadium,DiSerafino Stadium,https://www.google.com/,1
+243,108,Stadium,Stadium,https://www.google.com/,1
+244,171,Stadium,Stadium,https://www.google.com/,1
+245,172,HS Soccer Field,HS Soccer Field,"https://www.google.com/maps/place/Pottsville+Area+High+School/@40.6811377,-76.2168877,17z/data=!3m1!4b1!4m6!3m5!1s0x89c5ee8fef666391:0xbda7e1488669e6eb!8m2!3d40.6811337!4d-76.2143128!16s%2Fm%2F0273478?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+246,173,Soccer Field #1,Soccer Field #1,https://www.google.com/,1
+247,174,Stadium,Stadium,https://www.google.com/,1
+248,175,Soccer Field #1,Soccer Field #,https://www.google.com/,1
+249,176,NAMS Bus Loop Turf Field,NAMS Bus Loop Turf Field,https://www.google.com/,1
+250,177,Stadium,Catasauqua,https://www.google.com/,1
+251,29,NCCS - Water Street,NCCS - Water Street,https://www.google.com/,1
+1191,22,Stadium,Stadium,https://www.google.com/,1
+1192,122,Legacy Fields Complex,Legacy Fields Complex,https://www.google.com/,1
+1193,7,MS Grass Soccer Field #1,MS Grass Soccer Field #1,https://www.google.com/,1
+1194,18,Blue Ball Elementary Tennis Courts,Blue Ball Elementary Tennis Courts,https://www.google.com/,1
+1195,18,HS Field 8,HS Field 8,https://www.google.com/,1
+1196,159,HS Soccer Field #1,HS Soccer Field #1,https://www.google.com/,1
+1197,35,Turf Field,Turf Field,https://www.google.com/,1
+1198,44,HS Soccer Field,HS Soccer Field,https://www.google.com/,1
+1199,1135,TBD,TBD,https://www.google.com/,1
+1200,11,Field 2,Field 2,https://www.google.com/,1
+1201,64,Soccer Field,Soccer Field,https://www.google.com/,1
+1202,18,Field 12,Field 12,https://www.google.com/search?q=google&rlz=1C5CHFA_enUS1037US1055&oq=google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIHCAQQABiPAjIHCAUQABiPAjIGCAYQRRg8MgYIBxBFGDzSAQc1OTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8,1
+1203,72,HS Field Hockey Grass Field,HS Field Hockey Grass Field,https://www.google.com/,1
+1204,1136,HS Soccer Field #1,HS Soccer Field #1,https://www.google.com/,1
+1207,1139,Highmark Stadium Field,Highmark Stadium Field,"https://www.google.com/maps/place/Highmark+Stadium/@40.4362517,-80.0198704,3178m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8834f6ad1455fac5:0x18ec5d8bb6a3306c!8m2!3d40.4362358!4d-80.0095921!16s%2Fm%2F0h_9q36?entry=ttu",1
+1208,1140,TBD,TBD,"https://www.google.com/maps/place/Delaware+County+Christian+School/@39.998916,-75.3864129,866m/data=!3m1!1e3!4m6!3m5!1s0x89c6eae37c3bce11:0xfce051370a819c2e!8m2!3d39.998916!4d-75.383838!16s%2Fm%2F027sv1j?entry=ttu&g_ep=EgoyMDI0MDgyMC4xIKXMDSoASAFQAw%3D%3D",1
+1209,1141,Soccer Field,Soccer Field,"https://www.google.com/maps?q=2400+Firmstone+St+Easton,+PA+18042",1
+1210,1142,Tribe Stadium,Tribe Stadium,"https://www.google.com/maps/place/Upper+Perkiomen+High+School/@40.2542752,-76.5587192,112683m/data=!3m1!1e3!4m6!3m5!1s0x89c42797ab4feeaf:0xfe7e577094da27ec!8m2!3d40.3811386!4d-75.4902802!16s%2Fm%2F076l9s1?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",1
+1211,1143,TBA,TBA,"https://www.google.com/maps/place/Wallenpaupack+Area+High+School/@41.4551218,-75.1846341,17z/data=!3m1!4b1!4m6!3m5!1s0x89c4b1c9bf437d4d:0x25cb5419ff1f0ec5!8m2!3d41.4551178!4d-75.1820592!16s%2Fm%2F0761wqj?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+1212,51,MS Soccer Field,MS Soccer Field,"https://www.google.com/maps/place/Hamburg+Middle+School/@40.5529176,-75.9729881,17z/data=!3m1!4b1!4m6!3m5!1s0x89c5db717a07e6ef:0xcab2172210a0dc4!8m2!3d40.5529136!4d-75.9704132!16s%2Fm%2F0767nt8?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+1213,172,TBA,TBA,"https://www.google.com/maps/place/Pottsville+Area+High+School/@40.6811377,-76.2168877,17z/data=!3m1!4b1!4m6!3m5!1s0x89c5ee8fef666391:0xbda7e1488669e6eb!8m2!3d40.6811337!4d-76.2143128!16s%2Fm%2F0273478?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+1214,1144,TBA,TBA,"https://www.google.com/maps/place/Wallenpaupack+Primary+School/@41.457684,-75.1745064,848m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c4b1c9bf437d4d:0xf454310b70f612ab!8m2!3d41.457684!4d-75.1719261!16s%2Fm%2F0769c0b?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+1215,1145,Alumni Field,Alumni Field,"https://www.google.com/maps/place/Alumni+Field/@40.6834328,-76.2120978,858m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c5ee9a532642ff:0xbb258fcac21c2611!8m2!3d40.6834328!4d-76.2095175!16s%2Fg%2F11c1nwfszf?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D",1
+1216,1146,Donald H Funk Field,Donald H Funk Field,https://maps.app.goo.gl/SdzSoYiRiSXZDkkP8,1
+1217,1148,Clipper Magazine Stadium Field,Clipper Magazine Stadium Field,https://maps.app.goo.gl/fooavYNb9fWTBGef8,1
+1218,1149,Stadium,Stadium,https://www.google.com/maps?q=155+Cochran+Rd+Pittsburgh+PA+15228,1
+2218,2149,TBA,TBA,https://maps.app.goo.gl/fhZ7qJmynV8GikVj7,1
+2219,2150,Teamer Field,Teamer Field,https://g.co/kgs/g2JZoAt,1
+2220,2151,Peters Twp MS,Peters Twp MS,https://maps.app.goo.gl/tv2XAQvrAZWsKX4v9,1

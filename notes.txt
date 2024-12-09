@@ -1,0 +1,21 @@
+Notes- 
+
+AI model
+-----------------------
+- The current thought is to use a logistical regression model for win loss draw
+
+
+
+Features
+---------------------
+elo 
+upperclassmen
+goal differential 
+club team?
+head to head 
+
+target
+-------------------
+1 - win 
+0 - draw 
+-1 - loss 

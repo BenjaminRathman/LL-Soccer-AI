@@ -1,0 +1,816 @@
+TeamId,LeagueId,SectionId,DisplayName,DisplayDescription,HomePageUrl,TeamPhoto,TeamLogo,MembershipLevel,Active
+1,1,5,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,1.png,1,1
+2,1,2,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,2.png,1,1
+3,1,3,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,NULL,3.png,1,1
+4,1,3,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,4.jpg,4.png,1,1
+5,1,4,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,NULL,5.png,1,1
+6,1,4,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,NULL,6.png,1,1
+7,1,3,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,7.jpg,7.png,1,1
+8,1,3,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,8.jpg,8.png,1,1
+9,1,3,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,9.jpg,9.png,1,1
+10,1,2,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,NULL,10.png,1,1
+11,1,4,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,11.jpg,11.png,1,1
+12,1,4,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,NULL,12.png,1,1
+13,1,5,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,13.png,1,1
+14,1,5,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,14.png,1,1
+15,1,5,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,15.png,1,1
+16,1,3,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,16.jpg,16.png,1,1
+17,1,2,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,17.jpg,17.png,1,1
+18,1,2,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,18.png,1,1
+19,1,4,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,19.png,1,1
+20,1,4,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,20.png,1,1
+21,1,2,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,21.png,1,1
+22,1,5,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,22.png,1,1
+23,1,5,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,23.png,1,1
+24,1,2,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,24.jpg,24.png,1,1
+25,1,1,Wilson,Wilson,https://www.google.com/,NULL,25.png,0,1
+26,1,1,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+27,1,1,Exeter Township,Exeter Township,"https://www.google.com/maps/search/Exeter+Junior+High+Schol/@40.3167622,-75.8681966,17z/data=!3m1!4b1?hl=en",NULL,27.png,0,1
+28,1,1,Central Dauphin,Central Dauphin,https://www.cdschools.org/,NULL,28.png,0,1
+29,1,1,Governor Mifflin,Governor Mifflin,https://www.google.com/,NULL,29.png,0,1
+30,1,1,Daniel Boone,Daniel Boone,https://www.google.com/,NULL,30.png,0,1
+31,1,1,Tulpehocken,Tulpehocken,https://www.google.com/,NULL,31.png,0,1
+32,1,1,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+33,1,1,Conrad Weiser,Conrad Weiser,https://www.google.com/,NULL,33.png,0,1
+34,1,1,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+35,1,1,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+36,1,1,Wyomissing,Wyomissing,http://www.google.com,NULL,36.png,0,1
+37,2,10,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,37.png,1,1
+38,2,7,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,38.png,1,1
+39,2,8,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,39.jpg,39.png,1,1
+40,2,7,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,40.jpg,40.png,1,1
+41,2,9,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,41.jpg,41.png,1,1
+42,2,9,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,42.jpg,42.png,1,1
+43,2,8,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,NULL,43.png,1,1
+44,2,7,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,NULL,44.png,1,1
+45,2,8,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,NULL,45.png,1,1
+46,2,7,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,NULL,46.png,1,1
+47,2,9,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,NULL,47.png,1,1
+48,2,10,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,48.jpg,48.png,1,1
+49,2,10,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,49.png,1,1
+50,2,10,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,50.png,1,1
+51,2,10,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,51.png,1,1
+52,2,8,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,52.jpg,52.png,1,1
+53,2,7,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,NULL,53.png,1,1
+54,2,10,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,54.png,1,1
+55,2,9,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,55.png,1,1
+56,2,9,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,56.png,1,1
+57,2,7,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,57.png,1,1
+58,2,9,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,58.png,1,1
+59,2,8,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,59.png,1,1
+60,2,8,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,NULL,60.png,1,1
+61,2,6,Wilson,Wilson,https://www.google.com/,NULL,61.png,0,1
+62,2,6,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+63,2,6,Exeter Township,Exeter Township,"https://www.google.com/maps/search/Exeter+Junior+High+Schol/@40.3167622,-75.8681966,17z/data=!3m1!4b1?hl=en",NULL,63.png,0,1
+64,2,6,Central Dauphin,Central Dauphin,https://www.google.com/,NULL,64.png,0,1
+65,2,6,Governor Mifflin,Governor Mifflin,https://www.google.com/,NULL,65.png,0,1
+66,2,6,Daniel Boone,Daniel Boone,https://www.google.com/,NULL,66.png,0,1
+67,2,6,Tulpehocken,Tulpehocken,https://www.google.com/,NULL,67.png,0,1
+68,2,6,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+69,2,6,Conrad Weiser,Conrad Weiser,https://www.google.com/,NULL,69.png,0,1
+70,2,6,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+71,2,6,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+72,2,6,Wyomissing,Wyomissing,https://www.google.com/,NULL,72.png,0,1
+73,1,1,Unionville,Unionville,http://www.google.com,NULL,NULL,0,1
+74,1,1,Downingtown East,Downingtown East,https://www.google.com,NULL,NULL,0,1
+75,1,1,Reading,Reading,https://www.google.com,NULL,75.png,0,1
+76,1,1,Cumberland Valley,Cumberland Valley,https://www.google.com,NULL,76.png,0,1
+77,1,1,Lower Dauphin,Lower Dauphin,https://www.google.com,NULL,77.png,0,1
+78,1,1,Northern York,Northern York,https://www.google.com,NULL,78.png,0,1
+79,1,1,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+80,1,1,Dallastown,Dallastown,https://www.google.com,NULL,80.png,0,1
+81,1,1,Hershey,Hershey,https://www.google.com,NULL,81.png,0,1
+82,1,1,Carlisle,Carlisle,https://www.google.com,NULL,82.png,0,1
+83,1,1,Red Lion,Red Lion,https://www.google.com,NULL,NULL,0,1
+84,1,1,Cedar Cliff,Cedar Cliff,https://www.google.com,NULL,84.png,0,1
+86,1,1,Great Valley,Great Valley,https://www.google.com,NULL,NULL,0,1
+87,1,1,Palmyra,Palmyta,https://www.google.com,NULL,87.png,0,1
+88,1,1,Muhlenberg,Muhlenberg,https://www.google.com,NULL,88.png,0,1
+89,1,1,Berks Catholic,Berks Catholic,https://www.google.com,NULL,89.png,0,1
+90,1,1,Twin Valley,Twin Valley,https://www.google.com,NULL,90.png,0,1
+91,1,1,Fleetwood,Fleetwood,https://www.google.com,NULL,91.png,0,1
+92,1,1,Oley Valley,Oley Valley,https://www.google.com,NULL,92.png,0,1
+93,1,1,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+94,1,1,Hamburg,Hamburg,https://www.google.com,NULL,94.png,0,1
+95,1,1,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+96,1,1,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+97,1,1,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+98,1,1,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+99,1,1,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+100,1,1,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+101,1,1,Coatesville Area,Coatesville Area,https://www.google.com,NULL,NULL,0,1
+102,1,1,Bishop McDevitt,Bishop McDevitt,https://www.google.com,NULL,102.png,0,1
+103,1,1,Kutztown,Kutztown,https://www.google.com,NULL,103.png,0,1
+104,1,1,Gettysburg,Gettysburg,https://www.google.com,NULL,104.png,0,1
+105,1,1,Brandywine Heights,Brandywine Heights,https://www.google.com,NULL,105.png,0,1
+106,1,1,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+107,1,1,Milton Hershey,Milton Hershey,https://www.google.com,NULL,107.png,0,1
+108,1,1,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+109,1,1,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+110,1,1,Boys Soccer Catholic Showcase,Boys Soccer Catholic Showcase,https://www.google.com,NULL,NULL,0,1
+111,1,1,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+112,1,1,York Suburban,York Suburban,https://www.google.com,NULL,NULL,0,1
+113,1,1,Devon Preparatory School,Devon Preparatory School,https://www.google.com,NULL,NULL,0,1
+115,1,1,East Pennsboro Area,East Pennsboro Area,https://www.google.com,NULL,115.png,0,1
+116,1,1,Trinity,Trinity,https://www.google.com,NULL,116.png,0,1
+117,1,1,Dayspring Christian Academy,Dayspring Christian Academy,https://www.google.com,NULL,NULL,0,1
+118,1,1,Conestoga Christian School,Conestoga Christian School,https://www.google.com,NULL,NULL,0,1
+119,1,1,Central Dauphin East,Central Dauphin East,https://www.google.com,NULL,119.png,0,1
+120,1,1,TBA,TBA - Unknown,https://www.google.com,NULL,NULL,0,1
+121,1,1,Harrisburg Academy,Harrisburg Academy,https://www.google.com,NULL,NULL,0,1
+122,2,6,York Suburban,York Suburban,https://www.yssd.org/hs/,NULL,NULL,0,1
+123,2,6,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+124,2,6,Berks Catholic,Berks Catholic,https://www.google.com,NULL,124.png,0,1
+125,2,6,Big Spring,Big Spring,https://www.google.com,NULL,125.png,0,1
+126,2,6,Bishop McDevitt,Bishop McDevitt,https://www.google.com,NULL,126.png,0,1
+127,2,6,Brandywine Heights,Brandywine Heights,https://www.google.com,NULL,127.png,0,1
+128,2,6,Camp Hill,Camp Hill,https://www.google.com,NULL,128.png,0,1
+129,2,6,Carlisle,Carlisle,https://www.google.com,NULL,129.png,0,1
+130,2,6,Catholic Shootout,Catholic Shootout,https://www.google.com,NULL,NULL,0,1
+131,2,6,Cedar Cliff,Cedar Cliff,https://www.google.com,NULL,131.png,0,1
+132,2,6,Central Dauphin East,Central Dauphin East,https://www.google.com,NULL,132.png,0,1
+133,2,6,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+134,2,6,Coatesville,Coatesville,https://www.google.com,NULL,NULL,0,1
+135,2,6,Dallastown,Dallastown,https://www.google.com,NULL,NULL,0,1
+136,2,6,Delone Catholic,Delone Catholic,https://www.google.com,NULL,NULL,0,1
+137,2,6,East Pennsboro,East Pennsboro,https://www.google.com,NULL,137.png,0,1
+139,2,6,Fleetwood,Fleetwood,https://www.google.com,NULL,139.png,0,1
+140,2,6,Hamburg,Hamburg,https://www.google.com,NULL,140.png,0,1
+141,2,6,Hershey,Hershey,https://www.google.com,NULL,141.png,0,1
+142,2,6,High Point Baptist Academy,High Point Baptist Academy,https://www.google.com,NULL,NULL,0,1
+143,2,6,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+144,2,6,Kennett,Kennett,https://www.google.com,NULL,NULL,0,1
+145,2,6,Linden Hall,Linden Hall,https://www.google.com,NULL,NULL,0,1
+146,2,6,Lower Dauphin,Lower Dauphin,https://www.google.com,NULL,146.png,0,1
+147,2,6,Mechanicsburg,Mechanicsburg,https://www.google.com,NULL,147.png,0,1
+148,2,6,Middletown,Middletown,https://www.google.com,NULL,148.png,0,1
+149,2,6,Milton Hershey,Milton Hershey,https://www.google.com,NULL,149.png,0,1
+150,2,6,Mount Calvary Christian,Mount Calvary Christian,https://www.google.com,NULL,NULL,0,1
+151,2,6,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+152,2,6,Northern York,Northern York,https://www.google.com,NULL,152.png,0,1
+153,2,6,Oley Valley,Oley Valley,https://www.google.com,NULL,153.png,0,1
+154,2,6,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+155,2,6,Palmyra,Palmyra,https://www.google.com,NULL,155.png,0,1
+156,2,6,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+157,2,6,Reading,Reading,https://www.google.com,NULL,157.png,0,1
+158,2,6,Red Lion High,Red Lion High,https://www.google.com,NULL,NULL,0,1
+159,2,6,Schuylkill Haven,Schuylkill Haven,https://www.google.com,NULL,NULL,0,1
+160,2,6,Schuylkill Valley,Schuylkill Valley,https://www.google.com,NULL,160.png,0,1
+161,2,6,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+162,2,6,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+163,2,6,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+164,2,6,Susquehannock,Susquehannock,https://www.google.com,NULL,NULL,0,1
+165,2,6,Susquenita,Susquenita,https://www.google.com,NULL,NULL,0,1
+166,2,6,Trinity,Trinity,https://www.google.com,NULL,166.png,0,1
+167,2,6,Twin Valley,Twin Valley,https://www.google.com,NULL,167.png,0,1
+168,2,6,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+170,2,6,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+171,2,6,York Country Day,York Country Day,https://www.google.com,NULL,NULL,0,1
+172,2,6,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+173,2,6,Cumberland Valley,Cumberland Valley,http://www.google.com,NULL,173.png,0,1
+174,1,1,Littlestown,Littlestown,http://www.google.com,NULL,NULL,0,1
+175,1,1,James Buchanan,James Buchanan,http://www.google.com,NULL,175.png,0,1
+176,2,6,West York,West York,https://www.google.com/,NULL,NULL,0,1
+177,1,1,West York,West York,https://www.google.vom,NULL,NULL,0,1
+178,2,6,Bermudian Springs,Bermudian Springs,https://www.google.com,NULL,NULL,0,1
+179,1,1,Bermudian Springs,Bermudian Springs,http://www.google.com,NULL,NULL,0,1
+180,2,6,Chambersburg,Chambersburg,http://www.google.com,NULL,180.png,0,1
+181,1,1,Harrisburg High School,Harrisburg High School,https://www.google.com,NULL,181.png,0,1
+182,1,1,New Oxford,New Oxford,https://www.google.com,NULL,NULL,0,1
+183,1,1,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+184,2,6,Kutztown,Kutztown,http://www.google.com,NULL,184.png,0,1
+185,2,6,William Penn,William Penn Senior High School,http://www.google.com,NULL,NULL,0,1
+186,2,6,Muhlenberg,Muhlenberg,http://www.google.com,NULL,186.png,0,1
+187,2,6,Dover,Dover,http://www.google.com,NULL,NULL,0,1
+188,2,6,Strath Haven,Strath Haven,http://www.google.com,NULL,NULL,0,1
+189,2,6,Hanover,Hanover,http://www.google.com,NULL,NULL,0,1
+190,2,6,Pine Grove,Pine Grove,http://www.google.com,NULL,NULL,0,1
+191,2,6,Gettysburg,Gettysburg,http://www.google.com,NULL,191.png,0,1
+192,2,6,Biglerville,Biglerville,http://www.google.com,NULL,NULL,0,1
+193,1,1,Chambersburg,Chambersburg,http://www.google.com,NULL,193.png,0,1
+194,1,1,Lower Merion,Lower Merion,http://maps.google.com,NULL,NULL,0,1
+195,1,1,Antietam,Antietam,http://www.google.com,NULL,195.png,0,1
+196,1,1,Middletown,Middletown,http://www.google.com,NULL,196.png,0,1
+197,1,1,West Perry,West Perry,https://www.google.com/,NULL,197.png,0,1
+198,1,1,Waynesboro,Waynesboro,https://www.google.com/,NULL,198.png,0,1
+199,1,1,Boiling Springs,Boiling Springs,https://www.google.com/,NULL,199.png,0,1
+200,1,1,Blue Mountain,Blue Mountain,https://www.google.com/,NULL,NULL,0,1
+201,1,1,Pine Grove,Pine Grove,https://www.google.com/?client=safari,NULL,NULL,0,1
+202,1,1,Biglerville MS/HS,Biglerville MS/HS,https://www.google.com/?client=safari,NULL,NULL,0,1
+203,1,1,Hanover,Hanover,https://www.google.com/?client=safari,NULL,NULL,0,1
+204,1,1,Millersburg,Millersburg,https://www.google.com/?client=safari,NULL,NULL,0,1
+205,1,1,Schuylkill Valley,Schuylkill Valley,https://www.google.com/?client=safari,NULL,205.png,0,1
+206,1,1,York Country Day,York Country Day,https://www.google.com/?client=safari,NULL,NULL,0,1
+207,1,1,Lewisburg,Lewisburg,http://www.google.com,NULL,NULL,0,1
+208,1,1,Wesleyan Christian,Wesleyan Christian,http://www.google.com,NULL,NULL,0,1
+209,1,1,Mechanicsburg,Mechanicsburg,http://www.google.com,NULL,209.png,0,1
+210,1,1,Spring Grove,Spring Grove,http://www.google.com,NULL,NULL,0,1
+212,1,1,Upper Dauphin,Upper Dauphin,http://www.google.com,NULL,212.png,0,1
+213,1,1,Fairfield,Fairfield,http://www.google.com,NULL,NULL,0,1
+214,2,6,Millersburg,Millersburg,https://www.google.com,NULL,NULL,0,1
+215,2,6,"Fairfield ","Fairfield ",https://www.google.com,NULL,NULL,0,1
+216,2,6,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+217,2,6,Owen J Roberts,Owen J Roberts,https://www.google.com,NULL,NULL,0,1
+218,1,1,Kennet High School,Kennet High School,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+219,2,6,TBA,TBA,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+220,2,6,Boiling Springs,Boiling Springs,https://www.google.com/maps,NULL,220.png,0,1
+221,1,1,State College,State College,https://www.google.com/,NULL,221.png,0,1
+222,1,1,West Perry,West Perry,https://www.google.com/,NULL,222.png,0,1
+224,1,1,Mifflin County,Mifflin County,https://www.google.com/,NULL,224.png,0,1
+225,1,1,Greencastle-Antrim,Greencastle-Antrim,https://www.google.com/,NULL,225.png,0,1
+226,1,1,Susquehanna Township,Susquehanna Township,https://www.google.com/,NULL,226.png,0,1
+227,1,1,Shippensburg,Shippensburg,https://www.google.com/,NULL,227.png,0,1
+228,1,1,Red Land,Red Land,https://www.google.com/,NULL,228.png,0,1
+232,3,15,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,1.png,1,1
+233,3,15,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,2.png,1,1
+234,3,15,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,NULL,3.png,1,1
+235,3,15,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,NULL,4.png,1,1
+236,3,15,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,NULL,5.png,1,1
+237,3,15,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,NULL,237.png,1,1
+238,3,15,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,NULL,7.png,1,1
+239,3,15,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,NULL,8.png,1,1
+240,3,15,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,NULL,9.png,1,1
+241,3,15,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,NULL,10.png,1,1
+242,3,15,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,NULL,11.png,1,1
+243,3,15,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,NULL,12.png,1,1
+244,3,15,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,13.png,1,1
+245,3,15,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,14.png,1,1
+246,3,15,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,15.png,1,1
+247,3,15,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,NULL,16.png,1,1
+248,3,15,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,NULL,17.png,1,1
+249,3,15,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,18.png,1,1
+250,3,15,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,19.png,1,1
+251,3,15,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,20.png,1,1
+252,3,15,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,21.png,1,1
+253,3,15,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,22.png,1,1
+254,3,15,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,23.png,1,1
+255,3,15,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,24.jpg,24.png,1,1
+256,3,15,Wilson,Wilson,https://www.google.com/,NULL,256.png,0,1
+257,3,15,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+258,3,15,Exeter Township,Exeter Township,"https://www.google.com/maps/search/Exeter+Junior+High+Schol/@40.3167622,-75.8681966,17z/data=!3m1!4b1?hl=en",NULL,258.png,0,1
+259,3,11,Central Dauphin,Central Dauphin,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Central%20Dauphin,NULL,259.png,0,1
+260,3,15,Governor Mifflin,Governor Mifflin,https://www.google.com/,NULL,260.png,0,1
+261,3,15,Daniel Boone,Daniel Boone,https://www.google.com/,NULL,261.png,0,1
+262,3,15,Tulpehocken,Tulpehocken,https://www.google.com/,NULL,262.png,0,1
+263,3,15,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+264,3,15,Conrad Weiser,Conrad Weiser,https://www.google.com/,NULL,264.png,0,1
+265,3,15,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+266,3,15,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+267,3,15,Wyomissing,Wyomissing,http://www.google.com,NULL,267.png,0,1
+268,3,15,Unionville,Unionville,http://www.google.com,NULL,NULL,0,1
+269,3,15,Downingtown East,Downingtown East,https://www.google.com,NULL,NULL,0,1
+270,3,15,Reading,Reading,https://www.google.com,NULL,270.png,0,1
+271,3,11,Cumberland Valley,Cumberland Valley,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Cumberland%20Valley,NULL,271.png,0,1
+272,3,12,Lower Dauphin,Lower Dauphin,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Lower%20Dauphin,NULL,272.png,0,1
+274,3,15,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+275,3,15,Dallastown,Dallastown,https://www.google.com,NULL,80.png,0,1
+276,3,12,Hershey,Hershey,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Hershey,276.jpg,276.png,0,1
+277,3,11,Carlisle,Carlisle,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Carlisle,NULL,277.png,0,1
+278,3,15,Red Lion,Red Lion,https://www.google.com,NULL,NULL,0,1
+279,3,11,Cedar Cliff,Cedar Cliff,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Cedar%20Cliff,NULL,279.png,0,1
+280,3,15,Great Valley,Great Valley,https://www.google.com,NULL,NULL,0,1
+281,3,12,Palmyra,Palmyta,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Palmyra,NULL,281.png,0,1
+282,3,15,Muhlenberg,Muhlenberg,https://www.google.com,NULL,282.png,0,1
+283,3,15,Berks Catholic,Berks Catholic,https://www.google.com,NULL,283.png,0,1
+284,3,15,Twin Valley,Twin Valley,https://www.google.com,NULL,284.png,0,1
+285,3,15,Fleetwood,Fleetwood,https://www.google.com,NULL,285.png,0,1
+286,3,15,Oley Valley,Oley Valley,https://www.google.com,NULL,286.png,0,1
+287,3,15,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+288,3,15,Hamburg,Hamburg,https://www.google.com,NULL,288.png,0,1
+289,3,15,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+290,3,15,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+291,3,15,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+292,3,15,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+293,3,15,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+294,3,15,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+295,3,15,Coatesville Area,Coatesville Area,https://www.google.com,NULL,NULL,0,1
+296,3,12,Bishop McDevitt,Bishop McDevitt,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Bishop%20McDevitt,NULL,296.png,0,1
+297,3,15,Kutztown,Kutztown,https://www.google.com,NULL,297.png,0,1
+298,3,13,Gettysburg,Gettysburg,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Gettysburg,NULL,298.png,0,0
+299,3,15,Brandywine Heights,Brandywine Heights,https://www.google.com,NULL,299.png,0,1
+300,3,15,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+301,3,14,Milton Hershey,Milton Hershey,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Milton%20Hershey,NULL,301.png,0,1
+302,3,15,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+303,3,15,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+304,3,15,Boys Soccer Catholic Showcase,Boys Soccer Catholic Showcase,https://www.google.com,NULL,NULL,0,1
+305,3,15,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+306,3,15,York Suburban,York Suburban,https://www.google.com,NULL,NULL,0,1
+307,3,15,Devon Preparatory School,Devon Preparatory School,https://www.google.com,NULL,NULL,0,1
+308,3,14,East Pennsboro Area,East Pennsboro Area,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/East%20Pennsboro%20Area,NULL,308.png,0,1
+309,3,14,Trinity,Trinity,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Trinity,NULL,309.png,0,1
+310,3,15,Dayspring Christian Academy,Dayspring Christian Academy,https://www.google.com,NULL,NULL,0,1
+311,3,15,Conestoga Christian School,Conestoga Christian School,https://www.google.com,NULL,NULL,0,1
+312,3,12,Central Dauphin East,Central Dauphin East,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Central%20Dauphin%20East,NULL,312.png,0,1
+313,3,15,TBA,TBA - Unknown,https://www.google.com,NULL,NULL,0,1
+314,3,15,Harrisburg Academy,Harrisburg Academy,https://www.google.com,NULL,NULL,0,1
+315,3,15,Littlestown,Littlestown,http://www.google.com,NULL,NULL,0,1
+316,3,13,James Buchanan,James Buchanan,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/James%20Buchanan,NULL,316.png,0,1
+317,3,15,West York,West York,https://www.google.vom,NULL,NULL,0,1
+318,3,15,Bermudian Springs,Bermudian Springs,http://www.google.com,NULL,NULL,0,1
+319,3,14,Harrisburg High School,Harrisburg High School,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Harrisburg%20High%20School,NULL,319.png,0,1
+320,3,15,New Oxford,New Oxford,https://www.google.com,NULL,NULL,0,1
+321,3,15,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+322,3,11,Chambersburg,Chambersburg,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Chambersburg,NULL,322.png,0,1
+323,3,15,Lower Merion,Lower Merion,http://maps.google.com,NULL,NULL,0,1
+324,3,15,Antietam,Antietam,http://www.google.com,NULL,324.png,0,1
+325,3,14,Middletown,Middletown,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Middletown,NULL,325.png,0,1
+326,3,13,West Perry,West Perry,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/West%20Perry,NULL,326.png,0,1
+327,3,13,Waynesboro,Waynesboro,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Waynesboro,NULL,327.png,0,1
+328,3,13,Boiling Springs,Boiling Springs,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Boiling%20Springs,NULL,328.png,0,1
+329,3,15,Blue Mountain,Blue Mountain,https://www.google.com/,NULL,NULL,0,1
+330,3,15,Pine Grove,Pine Grove,https://www.google.com/?client=safari,NULL,NULL,0,1
+331,3,15,Biglerville MS/HS,Biglerville MS/HS,https://www.google.com/?client=safari,NULL,NULL,0,1
+332,3,15,Hanover,Hanover,https://www.google.com/?client=safari,NULL,NULL,0,1
+333,3,15,Millersburg,Millersburg,https://www.google.com/?client=safari,NULL,NULL,0,1
+334,3,15,Schuylkill Valley,Schuylkill Valley,https://www.google.com/?client=safari,NULL,334.png,0,1
+335,3,15,York Country Day,York Country Day,https://www.google.com/?client=safari,NULL,NULL,0,1
+336,3,15,Lewisburg,Lewisburg,http://www.google.com,NULL,NULL,0,1
+337,3,15,Wesleyan Christian,Wesleyan Christian,http://www.google.com,NULL,NULL,0,1
+338,3,11,Mechanicsburg,Mechanicsburg,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Mechanicsburg,NULL,338.png,0,1
+339,3,15,Spring Grove,Spring Grove,http://www.google.com,NULL,NULL,0,1
+340,3,15,Upper Dauphin,Upper Dauphin,http://www.google.com,NULL,340.png,0,1
+341,3,15,Fairfield,Fairfield,http://www.google.com,NULL,NULL,0,1
+342,3,15,Kennet High School,Kennet High School,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+343,3,11,State College,State College,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/State%20College,NULL,343.png,0,1
+345,3,12,Northern York,Northern York,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Northern%20York,NULL,345.png,0,1
+346,3,13,Mifflin County,Huskies,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Mifflin%20County,NULL,346.png,0,1
+347,3,13,Greencastle-Antrim,Greencastle-Antrim,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Greencastle-Antrim,NULL,347.png,0,1
+348,3,14,Susquehanna Township,Susquehanna Township,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Susquehanna%20Township,NULL,348.png,0,1
+349,3,13,Shippensburg,Shippensburg,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Shippensburg,NULL,349.png,0,1
+350,3,12,Red Land,Red Land,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Red%20Land,NULL,350.png,0,1
+351,4,20,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,37.png,1,1
+352,4,20,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,38.png,1,1
+353,4,20,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,NULL,39.png,1,1
+354,4,20,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,NULL,40.png,1,1
+355,4,20,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,NULL,41.png,1,1
+356,4,20,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,NULL,356.png,1,1
+357,4,20,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,NULL,43.png,1,1
+358,4,20,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,NULL,44.png,1,1
+359,4,20,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,NULL,45.png,1,1
+360,4,20,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,46.jpg,46.png,1,1
+361,4,20,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,NULL,47.png,1,1
+362,4,20,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,NULL,48.png,1,1
+363,4,20,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,49.png,1,1
+364,4,20,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,50.png,1,1
+365,4,20,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,51.png,1,1
+366,4,20,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,NULL,52.png,1,1
+367,4,20,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,NULL,53.png,1,1
+368,4,20,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,54.png,1,1
+369,4,20,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,55.png,1,1
+370,4,20,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,56.png,1,1
+371,4,20,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,57.png,1,1
+372,4,20,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,58.png,1,1
+373,4,20,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,59.png,1,1
+374,4,20,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,60.jpg,60.png,1,1
+375,4,20,Wilson,Wilson,https://www.google.com/,NULL,375.png,0,1
+376,4,20,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+377,4,20,Exeter Township,Exeter Township,"https://www.google.com/maps/search/Exeter+Junior+High+Schol/@40.3167622,-75.8681966,17z/data=!3m1!4b1?hl=en",NULL,377.png,0,1
+378,4,16,Central Dauphin,Central Dauphin,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Central%20Dauphin,378.jpg,378.png,0,1
+379,4,20,Governor Mifflin,Governor Mifflin,https://www.google.com/,NULL,379.png,0,1
+380,4,20,Daniel Boone,Daniel Boone,https://www.google.com/,NULL,380.png,0,1
+381,4,20,Tulpehocken,Tulpehocken,https://www.google.com/,NULL,381.png,0,1
+382,4,20,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+383,4,20,Conrad Weiser,Conrad Weiser,https://www.google.com/,NULL,383.png,0,1
+384,4,20,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+385,4,20,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+386,4,20,Wyomissing,Wyomissing,https://www.google.com/,NULL,386.png,0,1
+387,4,20,York Suburban,York Suburban,https://www.yssd.org/hs/,NULL,NULL,0,1
+388,4,20,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+389,4,20,Berks Catholic,Berks Catholic,https://www.google.com,NULL,389.png,0,1
+390,4,19,Big Spring,Big Spring,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Big%20Spring,NULL,390.png,0,1
+391,4,17,Bishop McDevitt,Bishop McDevitt,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Bishop%20McDevitt,NULL,391.png,0,1
+392,4,20,Brandywine Heights,Brandywine Heights,https://www.google.com,NULL,392.png,0,1
+393,4,19,Camp Hill,Camp Hill,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Camp%20Hill,NULL,393.png,0,1
+394,4,16,Carlisle,Carlisle,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Carlisle,394.jpg,394.png,0,1
+395,4,20,Catholic Shootout,Catholic Shootout,https://www.google.com,NULL,NULL,0,1
+396,4,16,Cedar Cliff,Cedar Cliff,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Cedar%20Cliff,NULL,396.png,0,1
+397,4,17,Central Dauphin East,Central Dauphin East,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Central%20Dauphin%20East,NULL,397.png,0,1
+398,4,20,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+399,4,20,Coatesville,Coatesville,https://www.google.com,NULL,NULL,0,1
+400,4,20,Dallastown,Dallastown,https://www.google.com,NULL,NULL,0,1
+401,4,20,Delone Catholic,Delone Catholic,https://www.google.com,NULL,NULL,0,1
+402,4,19,East Pennsboro,East Pennsboro,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/East%20Pennsboro,NULL,402.png,0,1
+403,4,20,Fleetwood,Fleetwood,https://www.google.com,NULL,403.png,0,1
+404,4,20,Hamburg,Hamburg,https://www.google.com,NULL,404.png,0,1
+405,4,17,Hershey,Hershey,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Hershey,NULL,405.png,0,1
+406,4,20,High Point Baptist Academy,High Point Baptist Academy,https://www.google.com,NULL,NULL,0,1
+407,4,20,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+408,4,20,Kennett,Kennett,https://www.google.com,NULL,NULL,0,1
+409,4,20,Linden Hall,Linden Hall,https://www.google.com,NULL,NULL,0,1
+410,4,17,Lower Dauphin,Lower Dauphin,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Lower%20Dauphin,NULL,410.png,0,1
+411,4,16,Mechanicsburg,Mechanicsburg,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Mechanicsburg,NULL,411.png,0,1
+412,4,19,Middletown,Middletown,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Middletown,NULL,412.png,0,1
+413,4,19,Milton Hershey,Milton Hershey,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Milton%20Hershey,NULL,413.png,0,1
+414,4,20,Mount Calvary Christian,Mount Calvary Christian,https://www.google.com,NULL,NULL,0,1
+415,4,20,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+416,4,17,Northern York,Northern York,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Northern%20York,416.jpg,416.png,0,1
+417,4,20,Oley Valley,Oley Valley,https://www.google.com,NULL,417.png,0,1
+418,4,20,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+419,4,17,Palmyra,Palmyra,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Palmyra,NULL,419.png,0,1
+420,4,20,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+421,4,20,Reading,Reading,https://www.google.com,NULL,421.png,0,1
+422,4,20,Red Lion High,Red Lion High,https://www.google.com,NULL,NULL,0,1
+423,4,20,Schuylkill Haven,Schuylkill Haven,https://www.google.com,NULL,NULL,0,1
+424,4,20,Schuylkill Valley,Schuylkill Valley,https://www.google.com,NULL,424.png,0,1
+425,4,20,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+426,4,20,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+427,4,20,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+428,4,20,Susquehannock,Susquehannock,https://www.google.com,NULL,NULL,0,1
+429,4,20,Susquenita,Susquenita,https://www.google.com,NULL,NULL,0,1
+430,4,19,Trinity,Trinity,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Trinity,NULL,430.png,0,1
+431,4,20,Twin Valley,Twin Valley,https://www.google.com,NULL,431.png,0,1
+432,4,20,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+433,4,20,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+434,4,20,York Country Day,York Country Day,https://www.google.com,NULL,NULL,0,1
+435,4,20,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+436,4,16,Cumberland Valley,Cumberland Valley,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Cumberland%20Valley,NULL,436.png,0,1
+437,4,20,West York,West York,https://www.google.com/,NULL,NULL,0,1
+438,4,20,Bermudian Springs,Bermudian Springs,https://www.google.com,NULL,NULL,0,1
+439,4,16,Chambersburg,Chambersburg,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Chambersburg,NULL,439.png,0,1
+440,4,20,Kutztown,Kutztown,http://www.google.com,NULL,440.png,0,1
+441,4,20,William Penn,William Penn Senior High School,http://www.google.com,NULL,NULL,0,1
+442,4,20,Muhlenberg,Muhlenberg,http://www.google.com,NULL,442.png,0,1
+443,4,20,Dover,Dover,http://www.google.com,NULL,NULL,0,1
+444,4,20,Strath Haven,Strath Haven,http://www.google.com,NULL,NULL,0,1
+445,4,20,Hanover,Hanover,http://www.google.com,NULL,NULL,0,1
+446,4,20,Pine Grove,Pine Grove,http://www.google.com,NULL,NULL,0,1
+447,4,18,Gettysburg,Gettysburg,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Gettysburg,NULL,447.png,0,1
+448,4,20,Biglerville,Biglerville,http://www.google.com,NULL,NULL,0,1
+449,4,20,Millersburg,Millersburg,https://www.google.com,NULL,NULL,0,1
+450,4,20,"Fairfield ","Fairfield ",https://www.google.com,NULL,NULL,0,1
+451,4,20,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+452,4,20,Owen J Roberts,Owen J Roberts,https://www.google.com,NULL,NULL,0,1
+453,4,20,TBA,TBA,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+454,4,18,Boiling Springs,Boiling Springs Girls Soccer,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Boiling%20Springs,NULL,454.png,0,1
+455,5,25,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,1.png,1,1
+456,5,25,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,2.png,1,1
+457,5,25,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,NULL,3.png,1,1
+458,5,25,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,NULL,4.png,1,1
+459,5,25,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,NULL,5.png,1,1
+460,5,25,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,NULL,460.png,1,1
+461,5,25,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,NULL,7.png,1,1
+462,5,25,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,NULL,8.png,1,1
+463,5,25,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,NULL,9.png,1,1
+464,5,25,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,NULL,10.png,1,1
+465,5,25,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,NULL,11.png,1,1
+466,5,25,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,NULL,12.png,1,1
+467,5,25,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,13.png,1,1
+468,5,25,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,14.png,1,1
+469,5,25,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,15.png,1,1
+470,5,25,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,NULL,16.png,1,1
+471,5,25,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,NULL,17.png,1,1
+472,5,25,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,18.png,1,1
+473,5,25,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,19.png,1,1
+474,5,25,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,20.png,1,1
+475,5,25,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,21.png,1,1
+476,5,25,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,22.png,1,1
+477,5,25,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,23.png,1,1
+478,5,25,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,24.jpg,24.png,1,1
+479,5,21,Wilson,Wilson,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Wilson,NULL,479.png,0,1
+480,5,25,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+481,5,22,Exeter Township,Exeter Township,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Exeter%20Township,481.jpg,481.png,0,1
+482,5,25,Central Dauphin,Central Dauphin,https://www.cdschools.org/,NULL,482.png,0,1
+483,5,21,Governor Mifflin,Governor Mifflin,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Governor%20Mifflin,483.jpg,483.png,0,1
+484,5,22,Daniel Boone,Daniel Boone,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Daniel%20Boone,484.jpg,484.png,0,1
+485,5,23,Tulpehocken,Tulpehocken,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Tulpehocken,NULL,485.png,0,1
+486,5,25,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+487,5,22,Conrad Weiser,Conrad Weiser,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Conrad%20Weiser,NULL,487.png,0,1
+488,5,25,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+489,5,25,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+490,5,23,Wyomissing,Wyomissing,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Wyomissing,NULL,490.png,0,1
+491,5,25,Unionville,Unionville,http://www.google.com,NULL,NULL,0,1
+492,5,25,Downingtown East,Downingtown East,https://www.google.com,NULL,NULL,0,1
+493,5,21,Reading,Reading,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Reading,NULL,493.png,0,1
+494,5,25,Cumberland Valley,Cumberland Valley,https://www.google.com,NULL,494.png,0,1
+495,5,25,Lower Dauphin,Lower Dauphin,https://www.google.com,NULL,495.png,0,1
+497,5,25,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+498,5,25,Dallastown,Dallastown,https://www.google.com,NULL,80.png,0,1
+499,5,25,Hershey,Hershey,https://www.google.com,NULL,499.png,0,1
+500,5,25,Carlisle,Carlisle,https://www.google.com,NULL,500.png,0,1
+501,5,25,Red Lion,Red Lion,https://www.google.com,NULL,NULL,0,1
+502,5,25,Cedar Cliff,Cedar Cliff,https://www.google.com,NULL,502.png,0,1
+503,5,25,Great Valley,Great Valley,https://www.google.com,NULL,NULL,0,1
+504,5,25,Palmyra,Palmyta,https://www.google.com,NULL,504.png,0,1
+505,5,21,Muhlenberg,Muhlenberg,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Muhlenberg,NULL,505.png,0,1
+506,5,23,Berks Catholic,Berks Catholic,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Berks%20Catholic,NULL,506.png,0,1
+507,5,22,Twin Valley,Twin Valley,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Twin%20Valley,NULL,507.png,0,1
+508,5,22,Fleetwood,Fleetwood,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Fleetwood,NULL,508.png,0,1
+509,5,23,Oley Valley,Oley Valley,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Oley%20Valley,NULL,509.png,0,1
+510,5,25,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+511,5,24,Hamburg,Hamburg,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Hamburg,511.jpg,511.png,0,1
+512,5,25,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+513,5,25,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+514,5,25,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+515,5,25,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+516,5,25,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+517,5,25,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+518,5,25,Coatesville Area,Coatesville Area,https://www.google.com,NULL,NULL,0,1
+519,5,25,Bishop McDevitt,Bishop McDevitt,https://www.google.com,NULL,519.png,0,1
+520,5,24,Kutztown,Kutztown,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Kutztown,520.jpg,520.png,0,1
+521,5,25,Gettysburg,Gettysburg,https://www.google.com,NULL,521.png,0,1
+522,5,24,Brandywine Heights,Brandywine Heights,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Brandywine%20Heights,522.jpg,522.png,0,1
+523,5,25,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+524,5,25,Milton Hershey,Milton Hershey,https://www.google.com,NULL,524.png,0,1
+525,5,25,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+526,5,25,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+527,5,25,Boys Soccer Catholic Showcase,Boys Soccer Catholic Showcase,https://www.google.com,NULL,NULL,0,1
+528,5,25,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+529,5,25,York Suburban,York Suburban,https://www.google.com,NULL,NULL,0,1
+530,5,25,Devon Preparatory School,Devon Preparatory School,https://www.google.com,NULL,NULL,0,1
+531,5,25,East Pennsboro,East Pennsboro,https://www.google.com,NULL,531.png,0,1
+532,5,25,Trinity,Trinity,https://www.google.com,NULL,532.png,0,1
+533,5,25,Dayspring Christian Academy,Dayspring Christian Academy,https://www.google.com,NULL,NULL,0,1
+534,5,25,Conestoga Christian School,Conestoga Christian School,https://www.google.com,NULL,NULL,0,1
+535,5,25,Central Dauphin East,Central Dauphin East,https://www.google.com,NULL,535.png,0,1
+536,5,25,TBA,TBA - Unknown,https://www.google.com,NULL,NULL,0,1
+537,5,25,Harrisburg Academy,Harrisburg Academy,https://www.google.com,NULL,NULL,0,1
+538,5,25,Littlestown,Littlestown,http://www.google.com,NULL,NULL,0,1
+539,5,25,James Buchanan,James Buchanan,http://www.google.com,NULL,539.png,0,1
+540,5,25,West York,West York,https://www.google.vom,NULL,NULL,0,1
+541,5,25,Bermudian Springs,Bermudian Springs,http://www.google.com,NULL,NULL,0,1
+542,5,25,Harrisburg High School,Harrisburg High School,https://www.google.com,NULL,542.png,0,1
+543,5,25,New Oxford,New Oxford,https://www.google.com,NULL,NULL,0,1
+544,5,25,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+545,5,25,Chambersburg,Chambersburg,http://www.google.com,NULL,545.png,0,1
+546,5,25,Lower Merion,Lower Merion,http://maps.google.com,NULL,NULL,0,1
+547,5,24,Antietam,Antietam Mounts,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Antietam,NULL,547.png,0,1
+548,5,25,Middletown,Middletown,http://www.google.com,NULL,548.png,0,1
+550,5,25,Waynesboro,Waynesboro,https://www.google.com/,NULL,550.png,0,1
+551,5,25,Boiling Springs,Boiling Springs,https://www.google.com/,NULL,551.png,0,1
+552,5,25,Blue Mountain,Blue Mountain,https://www.google.com/,NULL,NULL,0,1
+553,5,25,Pine Grove,Pine Grove,https://www.google.com/?client=safari,NULL,NULL,0,1
+554,5,25,Biglerville MS/HS,Biglerville MS/HS,https://www.google.com/?client=safari,NULL,NULL,0,1
+555,5,25,Hanover,Hanover,https://www.google.com/?client=safari,NULL,NULL,0,1
+556,5,25,Millersburg,Millersburg,https://www.google.com/?client=safari,NULL,NULL,0,1
+557,5,24,Schuylkill Valley,Schuylkill Valley,https://berkssoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Schuylkill%20Valley,NULL,557.png,0,1
+558,5,25,York Country Day,York Country Day,https://www.google.com/?client=safari,NULL,NULL,0,1
+559,5,25,Lewisburg,Lewisburg,http://www.google.com,NULL,NULL,0,1
+560,5,25,Wesleyan Christian,Wesleyan Christian,http://www.google.com,NULL,NULL,0,1
+561,5,25,Mechanicsburg,Mechanicsburg,http://www.google.com,NULL,561.png,0,1
+562,5,25,Spring Grove,Spring Grove,http://www.google.com,NULL,NULL,0,1
+563,5,25,Upper Dauphin,Upper Dauphin,http://www.google.com,NULL,212.png,0,1
+564,5,25,Fairfield,Fairfield,http://www.google.com,NULL,NULL,0,1
+565,5,25,Kennet High School,Kennet High School,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxiKBTIJCAAQIxgnGIoFMhUIARAuGEMYgwEYxwEYsQMY0QMYigUyCQgCECMYJxiKBTINCAMQABiDARixAxiABDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEHODI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+566,5,25,State College,State College,https://www.google.com/,NULL,566.png,0,1
+567,5,25,West Perry,West Perry,https://www.google.com/,NULL,567.png,0,1
+568,5,25,Northern York,Northern York,https://www.google.com/,NULL,568.png,0,1
+569,5,25,Mifflin County,Mifflin County,https://www.google.com/,NULL,569.png,0,1
+570,5,25,Greencastle-Antrim,Greencastle-Antrim,https://www.google.com/,NULL,570.png,0,1
+571,5,25,Susquehanna Township,Susquehanna Township,https://www.google.com/,NULL,571.png,0,1
+572,5,25,Shippensburg,Shippensburg,https://www.google.com/,NULL,572.png,0,1
+573,5,25,Red Land,Red Land,https://www.google.com/,NULL,573.png,0,1
+574,6,30,Annville-Cleona,Annville-Cleona,https://www.arbiterlive.com/Teams/Schedule/3851451,NULL,37.png,1,1
+575,6,30,Cedar Crest,Cedar Crest,https://www.arbiterlive.com/Teams/Schedule/6166356,NULL,38.png,1,1
+576,6,30,Cocalico,Cocalico,https://www.arbiterlive.com/Teams/Schedule/6166366,NULL,39.png,1,1
+577,6,30,Conestoga Valley,Conestoga Valley,https://www.arbiterlive.com/Teams/Schedule/3851795,NULL,40.png,1,1
+578,6,30,Donegal,Donegal,https://www.arbiterlive.com/Teams/Schedule/3851915,NULL,41.png,1,1
+579,6,30,ELCO,ELCO,https://www.arbiterlive.com/Teams/Schedule/6207208,NULL,579.png,1,1
+580,6,30,Elizabethtown,Elizabethtown,https://www.arbiterlive.com/Teams/Schedule/4634546,NULL,43.png,1,1
+581,6,30,Ephrata,Ephrata,https://www.arbiterlive.com/Teams/Schedule/3852030,NULL,44.png,1,1
+582,6,30,Garden Spot,Garden Spot,https://www.arbiterlive.com/Teams/Schedule/6166363,NULL,45.png,1,1
+583,6,30,Hempfield,Hempfield,https://www.arbiterlive.com/Teams/Schedule/3909116,46.jpg,46.png,1,1
+584,6,30,Lampeter-Strasburg,Lampeter-Strasburg,https://www.arbiterlive.com/Teams/Schedule/4155574,NULL,47.png,1,1
+585,6,30,Lancaster Catholic,Lancaster Catholic,https://www.arbiterlive.com/Teams/Schedule/3852286,NULL,48.png,1,1
+586,6,30,Lancaster Country Day,Lancaster Country Day School,https://www.arbiterlive.com/Teams/Schedule/3852302,NULL,49.png,1,1
+587,6,30,Lancaster Mennonite,Lancaster Mennonite,https://www.arbiterlive.com/Teams/Schedule/3852311,NULL,50.png,1,1
+588,6,30,Lebanon,Lebanon,https://www.arbiterlive.com/Teams/Schedule/6171309,NULL,51.png,1,1
+589,6,30,Manheim Central,Manheim Central,https://www.arbiterlive.com/Teams/Schedule/4230527,NULL,52.png,1,1
+590,6,30,Manheim Township,Manheim Township,https://www.arbiterlive.com/Teams/Schedule/4155416,NULL,53.png,1,1
+591,6,30,McCaskey,McCaskey,https://www.arbiterlive.com/Teams/Schedule/3852408,NULL,54.png,1,1
+592,6,30,Northern Lebanon,Northern Lebanon,https://www.arbiterlive.com/Teams/Schedule/3868413,NULL,55.png,1,1
+593,6,30,Octorara,Octorara,https://www.arbiterlive.com/Teams/Schedule/6266930,NULL,56.png,1,1
+594,6,30,Penn Manor,Penn Manor,https://www.arbiterlive.com/Teams/Schedule/3852586,NULL,57.png,1,1
+595,6,30,Pequea Valley,Pequea Valley,https://www.arbiterlive.com/Teams/Schedule/6169174,NULL,58.png,1,1
+596,6,30,Solanco,Solanco,https://www.arbiterlive.com/Teams/Schedule/4961603,NULL,59.png,1,1
+597,6,30,Warwick,Warwick,https://www.arbiterlive.com/Teams/Schedule/3852815,60.jpg,60.png,1,1
+598,6,26,Wilson,Wilson,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Wilson,598.jpg,598.png,0,1
+599,6,30,North Allegheny,North Allegheny,Home,NULL,NULL,0,1
+600,6,27,Exeter Township,Exeter Township,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Exeter%20Township,600.jpg,600.png,0,1
+601,6,30,Central Dauphin,Central Dauphin,https://www.google.com/,NULL,601.png,0,1
+602,6,26,Governor Mifflin,Governor Mifflin,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Governor%20Mifflin,NULL,602.png,0,1
+603,6,27,Daniel Boone,Daniel Boone,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Daniel%20Boone,NULL,603.png,0,1
+604,6,29,Tulpehocken,Tulpehocken,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Tulpehocken,NULL,604.png,0,1
+605,6,30,Eastern York High School,Eastern York High School,Home,NULL,NULL,0,1
+606,6,27,Conrad Weiser,Conrad Weiser,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Conrad%20Weiser,NULL,606.png,0,1
+607,6,30,Lancaster County Christian,Lancaster County Christian,Home,NULL,NULL,0,1
+608,6,30,New Covenant Christian School,New Covenant Christian School,Home,NULL,NULL,0,1
+609,6,28,Wyomissing,Wyomissing,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Wyomissing,NULL,609.png,0,1
+610,6,30,York Suburban,York Suburban,https://www.yssd.org/hs/,NULL,NULL,0,1
+611,6,30,Avon Grove,Avon Grove,https://www.google.com,NULL,NULL,0,1
+612,6,28,Berks Catholic,Berks Catholic,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Berks%20Catholic,NULL,612.png,0,1
+613,6,30,Big Spring,Big Spring,https://www.google.com,NULL,613.png,0,1
+614,6,30,Bishop McDevitt,Bishop McDevitt,https://www.google.com,NULL,614.png,0,1
+615,6,29,Brandywine Heights,Brandywine Heights,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Brandywine%20Heights,NULL,615.png,0,1
+616,6,30,Camp Hill,Camp Hill,https://www.google.com,NULL,616.png,0,1
+617,6,30,Carlisle,Carlisle,https://www.google.com,NULL,617.png,0,1
+618,6,30,Catholic Shootout,Catholic Shootout,https://www.google.com,NULL,NULL,0,1
+619,6,30,Cedar Cliff,Cedar Cliff,https://www.google.com,NULL,619.png,0,1
+620,6,30,Central Dauphin East,Central Dauphin East,https://www.google.com,NULL,620.png,0,1
+621,6,30,Central York,Central York,https://www.google.com,NULL,NULL,0,1
+622,6,30,Coatesville,Coatesville,https://www.google.com,NULL,NULL,0,1
+623,6,30,Dallastown,Dallastown,https://www.google.com,NULL,NULL,0,1
+624,6,30,Delone Catholic,Delone Catholic,https://www.google.com,NULL,NULL,0,1
+625,6,30,East Pennsboro,East Pennsboro,https://www.google.com,NULL,625.png,0,1
+626,6,28,Fleetwood,Fleetwood,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Fleetwood,626.jpg,626.png,0,1
+627,6,28,Hamburg,Hamburg,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Hamburg,NULL,627.png,0,1
+628,6,30,Hershey,Hershey,https://www.google.com,NULL,628.png,0,1
+629,6,30,High Point Baptist Academy,High Point Baptist Academy,https://www.google.com,NULL,NULL,0,1
+630,6,30,Kennard-Dale,Kennard-Dale,https://www.google.com,NULL,NULL,0,1
+631,6,30,Kennett,Kennett,https://www.google.com,NULL,NULL,0,1
+632,6,30,Linden Hall,Linden Hall,https://www.google.com,NULL,NULL,0,1
+633,6,30,Lower Dauphin,Lower Dauphin,https://www.google.com,NULL,633.png,0,1
+634,6,30,Mechanicsburg,Mechanicsburg,https://www.google.com,NULL,634.png,0,1
+635,6,30,Middletown,Middletown,https://www.google.com,NULL,635.png,0,1
+636,6,30,Milton Hershey,Milton Hershey,https://www.google.com,NULL,636.png,0,1
+637,6,30,Mount Calvary Christian,Mount Calvary Christian,https://www.google.com,NULL,NULL,0,1
+638,6,30,Northeastern,Northeastern,https://www.google.com,NULL,NULL,0,1
+639,6,30,Northern York,Northern York,https://www.google.com,NULL,639.png,0,1
+640,6,29,Oley Valley,Oley Valley,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Oley%20Valley,NULL,640.png,0,1
+641,6,30,Oxford,Oxford,https://www.google.com,NULL,NULL,0,1
+642,6,30,Palmyra,Palmyra,https://www.google.com,NULL,642.png,0,1
+643,6,30,Pottsville,Pottsville,https://www.google.com,NULL,NULL,0,1
+644,6,26,Reading,Reading,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Reading,NULL,644.png,0,1
+645,6,30,Red Lion High,Red Lion High,https://www.google.com,NULL,NULL,0,1
+646,6,30,Schuylkill Haven,Schuylkill Haven,https://www.google.com,NULL,NULL,0,1
+647,6,29,Schuylkill Valley,Schuylkill Valley,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Schuylkill%20Valley,NULL,647.png,0,1
+648,6,30,South Western,South Western,https://www.google.com,NULL,NULL,0,1
+649,6,30,Spring-Ford,Spring-Ford,https://www.google.com,NULL,NULL,0,1
+650,6,30,Sun Valley,Sun Valley,https://www.google.com,NULL,NULL,0,1
+651,6,30,Susquehannock,Susquehannock,https://www.google.com,NULL,NULL,0,1
+652,6,30,Susquenita,Susquenita,https://www.google.com,NULL,NULL,0,1
+653,6,30,Trinity,Trinity,https://www.google.com,NULL,653.png,0,1
+654,6,27,Twin Valley,Twin Valley,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Twin%20Valley,654.jpg,654.png,0,1
+655,6,30,West Shore Christian Academy,West Shore Christian Academy,https://www.google.com,NULL,NULL,0,1
+656,6,30,York Catholic,York Catholic,https://www.google.com,NULL,NULL,0,1
+657,6,30,York Country Day,York Country Day,https://www.google.com,NULL,NULL,0,1
+658,6,30,Chichester,Chichester,https://www.google.com,NULL,NULL,0,1
+659,6,30,Cumberland Valley,Cumberland Valley,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Cumberland%20Valley,NULL,659.png,0,1
+660,6,30,West York,West York,https://www.google.com/,NULL,NULL,0,1
+661,6,30,Bermudian Springs,Bermudian Springs,https://www.google.com,NULL,NULL,0,1
+662,6,30,Chambersburg,Chambersburg,http://www.google.com,NULL,662.png,0,1
+663,6,29,Kutztown,Kutztown,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Kutztown,NULL,663.png,0,1
+664,6,30,William Penn,William Penn Senior High School,http://www.google.com,NULL,NULL,0,1
+665,6,26,Muhlenberg,Muhlenberg,https://berkssoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Muhlenberg,NULL,665.png,0,1
+666,6,30,Dover,Dover,http://www.google.com,NULL,NULL,0,1
+667,6,30,Strath Haven,Strath Haven,http://www.google.com,NULL,NULL,0,1
+668,6,30,Hanover,Hanover,http://www.google.com,NULL,NULL,0,1
+669,6,30,Pine Grove,Pine Grove,http://www.google.com,NULL,NULL,0,1
+670,6,30,Gettysburg,Gettysburg,http://www.google.com,NULL,670.png,0,1
+671,6,30,Biglerville,Biglerville,http://www.google.com,NULL,NULL,0,1
+672,6,30,Millersburg,Millersburg,https://www.google.com,NULL,NULL,0,1
+673,6,30,"Fairfield ","Fairfield ",https://www.google.com,NULL,NULL,0,1
+674,6,30,Harrisburg Christian,Harrisburg Christian,https://www.google.com,NULL,NULL,0,1
+675,6,30,Owen J Roberts,Owen J Roberts,https://www.google.com,NULL,NULL,0,1
+676,6,30,TBA,TBA,https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg8IARAuGCcYxwEY0QMYigUyBggCEEUYOzIGCAMQRRhAMgYIBBBFGEEyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxMTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+677,6,30,Boiling Springs,Boiling Springs,https://www.google.com/maps,NULL,677.png,0,1
+678,5,25,Downingtown West,Downingtown West,https://www.google.com/,NULL,NULL,0,1
+679,5,25,Boyertown,Boyertown,https://www.google.com/,NULL,NULL,0,1
+680,6,30,Parkland,Parkland,https://www.google.com/,NULL,NULL,0,1
+681,6,30,Emmaus,Emmaus,https://www.google.com/,NULL,NULL,0,1
+682,6,30,Pennridge,Pennridge,https://www.google.com/,NULL,NULL,0,1
+683,6,30,Easton,Easton,https://www.google.com/,NULL,NULL,0,1
+684,6,30,Boyertown,Boyertown,https://www.google.com/,NULL,NULL,0,1
+685,6,30,Pottsgrove,Pottsgrove,https://www.google.com/,NULL,NULL,0,1
+686,4,18,West Perry,West Perry,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/West%20Perry,NULL,686.png,0,1
+687,4,16,State College,State College,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/State%20College,NULL,687.png,0,1
+688,4,18,Waynesboro,Waynesboro,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Waynesboro,NULL,688.png,0,1
+689,4,17,Red Land,Red Land,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Red%20Land,NULL,689.png,0,1
+690,4,20,Lewisburg,Lewisburg,https://www.google.com/,NULL,NULL,0,1
+691,3,15,Emmaus,Emmaus,https://www.google.com/,NULL,NULL,0,1
+692,3,15,Susquehannock,Susquehannock,https://www.google.com/,NULL,NULL,0,1
+693,3,15,Altoona,Altoona,https://www.google.com/,NULL,693.png,0,1
+694,3,14,Camp Hill,Camp Hill,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Camp%20Hill,NULL,694.png,0,1
+695,3,15,Williamsport,Williamsport,https://www.google.com/,NULL,NULL,0,1
+696,3,15,William Penn,William Penn,https://www.google.com/,NULL,NULL,0,1
+697,3,15,North Hagerstown,North Hagerstown,https://www.google.com/,NULL,NULL,0,1
+698,3,15,McConnellsburg,McConnellsburg,https://www.google.com/,NULL,NULL,0,1
+699,3,15,Southern Fulton,Southern Fulton,https://www.google.com/,NULL,NULL,0,1
+700,3,14,Big Spring,Big Spring,https://midpennsoccer.com/soccer/Boys%20Varsity/2024%20-%202025/team/Big%20Spring,NULL,700.png,0,1
+701,3,15,Central Mountain,Central Mountain,https://www.google.com/,NULL,NULL,0,1
+702,3,15,Belleville Mennonite,Belleville Mennonite,https://www.google.com/,NULL,NULL,0,1
+703,3,15,Juniata,Juniata,https://www.google.com/,NULL,NULL,0,1
+704,3,15,Shalom Christian Academy,Shalom Christian Academy,https://www.google.com/,NULL,NULL,0,1
+705,3,15,Halifax,Halifax,https://www.google.com/,NULL,NULL,0,1
+706,3,15,Central Columbia,Central Columbia,https://www.google.com/,NULL,NULL,0,1
+707,3,15,Dover,Dover,https://www.google.com/,NULL,NULL,0,1
+708,4,18,Greencastle-Antrim,Greencastle-Antrim,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Greencastle-Antrim,NULL,708.png,0,1
+709,4,18,James Buchanan,James Buchanan,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/James%20Buchanan,NULL,709.png,0,1
+710,4,18,Mifflin County,Mifflin County,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Mifflin%20County,710.jpg,710.png,0,1
+711,4,18,Shippensburg,Shippensburg,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Shippensburg,NULL,711.png,0,1
+712,4,19,Susquehanna Township,Susquehanna Township,https://midpennsoccer.com/soccer/Girls%20Varsity/2024%20-%202025/team/Susquehanna%20Township,NULL,712.png,0,1
+713,4,20,Altoona,Altoona,https://www.google.com/,NULL,713.png,0,1
+714,4,20,Parkland,Parkland,https://www.google.com/,NULL,NULL,0,1
+715,4,20,Seneca Valley,Seneca Valley,https://www.google.com/,NULL,NULL,0,1
+716,4,20,McDonogh High School,McDonogh High School,https://www.google.com/,NULL,NULL,0,1
+717,4,20,Bald Eagle Area High School,Bald Eagle Area High School,https://www.google.com/,NULL,NULL,0,1
+718,4,20,Williamsport,Williamsport,https://www.google.com/,NULL,NULL,0,1
+719,4,20,Shikellamy,Shikellamy,https://www.google.com/,NULL,NULL,0,1
+720,4,20,Jersey Shore,Jersey Shore,https://www.google.com/,NULL,NULL,0,1
+721,4,20,Spring Grove,Spring Grove,https://www.google.com/,NULL,NULL,0,1
+722,4,20,Juniata,Juniata,https://www.google.com/,NULL,NULL,0,1
+723,4,20,Southern Fulton,Southern Fulton,https://www.google.com/,NULL,NULL,0,1
+724,4,20,McConnellsburg,McConnellsburg,https://www.google.com/,NULL,NULL,0,1
+725,4,20,Shalom Christian Academy,Shalom Christian Academy,https://www.google.com/,NULL,NULL,0,1
+726,4,20,Central Mountain,Central Mountain,https://www.google.com/,NULL,NULL,0,1
+727,4,20,Midd-West High School,Midd-West High School,https://www.google.com/,NULL,NULL,0,1
+728,4,20,East Juniata,East Juniata,https://www.google.com/,NULL,NULL,0,1
+729,4,20,Littlestown,Littlestown,https://www.google.com/,NULL,NULL,0,1
+730,4,20,New Oxford,New Oxford,https://www.google.com/,NULL,NULL,0,1
+731,4,20,Halifax,Halifax,https://www.google.com/,NULL,NULL,0,1
+733,6,30,Greencastle-Antrim,Greencastle-Antrim,https://www.google.com/,NULL,733.png,0,1
+734,6,30,Harrisburg High School,Harrisburg High School,https://www.google.com/,NULL,734.png,0,1
+735,6,30,James Buchanan,James Buchanan,https://www.google.com/,NULL,735.png,0,1
+736,6,30,Mifflin County,Mifflin County,https://www.google.com/,NULL,736.png,0,1
+737,6,30,Red Land,Red Land,https://www.google.com/,NULL,737.png,0,1
+738,6,30,Shippensburg,Shippensburg,https://www.google.com/,NULL,738.png,0,1
+739,6,30,State College,State College,https://www.google.com/,NULL,739.png,0,1
+740,6,30,Susquehanna Township,Susquehanna Township,NULL,NULL,740.png,0,1
+741,6,30,Upper Dauphin,Upper Dauphin,https://www.google.com/,NULL,741.png,0,1
+742,6,30,Waynesboro,Waynesboro,https://www.google.com/,NULL,742.png,0,1
+743,6,30,West Perry,West Perry,https://www.google.com/,NULL,743.png,0,1
+744,5,25,William Penn,William Penn,https://www.google.com/,NULL,NULL,0,1
+745,5,25,Moravian Academy,Moravian Academy,https://www.google.com/,NULL,NULL,0,1
+746,5,25,Pottsgrove,Pottsgrove,https://www.google.com/,NULL,NULL,0,1
+747,5,25,Perkiomen Valley,Perkiomen Valley,https://www.google.com/,NULL,NULL,0,1
+748,5,25,Upper Merion,Upper Merion,https://www.google.com/,NULL,NULL,0,1
+749,5,25,Collegium Charter School,Collegium Charter School,https://www.google.com/,NULL,NULL,0,1
+750,5,25,Ephrata Mennonite,Ephrata Mennonite,https://www.google.com/,NULL,NULL,0,1
+751,5,25,Notre Dame High School,Notre Dame High School,https://www.google.com/,NULL,NULL,0,1
+752,5,25,Halifax,Halifax,https://www.google.com/,NULL,NULL,0,1
+753,5,25,Methacton,Methacton,https://www.google.com/,NULL,NULL,0,1
+754,5,25,Big Spring,Big Spring,https://www.google.com/,NULL,754.png,0,1
+755,5,25,Delone Catholic,Delone Catholic,https://www.google.com/,NULL,NULL,0,1
+756,5,25,Schuylkill Haven,Schuylkill Haven,https://www.google.com/,NULL,NULL,0,1
+757,5,25,Bishop Shanahan,Bishop Shanahan,https://www.google.com/,NULL,NULL,0,1
+758,5,25,Northwestern Lehigh,Northwestern Lehigh,https://www.google.com/,NULL,NULL,0,1
+759,5,25,Mount Cavalry Christian,Mount Cavalry Christian,https://www.google.com/,NULL,NULL,0,1
+760,5,25,Pottstown,Pottstown,https://www.google.com/,NULL,NULL,0,1
+761,5,25,Renaissance Academy Charter,Renaissance Academy Charter,https://www.google.com/,NULL,NULL,0,1
+762,5,25,Veritas Academy,Veritas Academy,https://www.google.com/,NULL,NULL,0,1
+763,4,20,Antietam,Antietam,https://www.google.com/,NULL,763.png,0,1
+764,5,25,Camp Hill,Camp Hill,https://www.google.com/,NULL,764.png,0,1
+765,6,30,Altoona,Altoona,https://www.google.com/,NULL,765.png,0,1
+766,6,30,Nazareth,Nazareth,https://www.google.com/,NULL,NULL,0,1
+767,6,30,Downingtown West,Downingtown West,https://www.google.com/,NULL,NULL,0,1
+768,6,30,Quakertown,Quakertown,https://www.google.com/,NULL,NULL,0,1
+769,6,30,Great Valley,Great Valley,https://www.google.com/,NULL,NULL,0,1
+770,6,30,Blue Mountain,Blue Mountain,https://www.google.com/,NULL,NULL,0,1
+771,6,30,Southern Lehigh,Southern Lehigh,https://www.google.com/,NULL,NULL,0,1
+772,6,30,Upper Perkiomen,Upper Perkiomen,https://www.google.com/,NULL,NULL,0,1
+773,6,30,North Schuylkill,North Schuylkill,https://www.google.com/,NULL,NULL,0,1
+774,6,30,Northern Lehigh,Northern Lehigh,https://www.google.com/,NULL,NULL,0,1
+775,6,30,Tri-Valley,Tri-Valley,https://www.google.com/,NULL,NULL,0,1
+776,6,30,Salisbury,Salisbury,https://www.google.com/,NULL,NULL,0,1
+777,6,30,Notre Dame High School,Notre Dame High School,https://www.google.com/,NULL,NULL,0,1
+778,6,30,Northampton,Northampton,https://www.google.com/,NULL,NULL,0,1
+779,6,30,Tamaqua,Tamaqua,https://www.google.com/,NULL,NULL,0,1
+780,6,30,Catasauqua,Catasauqua,https://www.google.com/,NULL,NULL,0,1
+781,6,30,Palisades,Palisades,https://www.google.com/,NULL,NULL,0,1
+782,6,30,Halifax,Halifax,https://www.google.com/,NULL,NULL,0,1
+783,1,1,Altoona,Altoona,https://www.google.com/,NULL,783.png,0,1
+784,1,1,Big Spring,Big Spring,https://www.google.com/,NULL,784.png,0,1
+785,1,1,Camp Hill,Camp Hill,https://www.google.com/,NULL,785.png,0,1
+1691,1,1,Susquehannock,Susquehannock,https://www.google.com/,NULL,NULL,0,1
+1692,1,1,Caravel Academy,Caravel Academy,https://www.google.com/,NULL,NULL,0,1
+1693,1,1,Mount Cavalry Christian,Mount Cavalry Christian,https://www.google.com/,NULL,NULL,0,1
+1694,2,6,Antietam,Antietam,https://www.google.com/,NULL,1694.png,0,1
+1695,2,6,Altoona,Altoona,https://www.google.com/,NULL,1695.png,0,1
+1696,2,6,Greencastle-Antrim,Greencastle-Antrim,https://www.google.com/,NULL,1696.png,0,1
+1697,2,6,James Buchanan,James Buchanan,https://www.google.com/,NULL,1697.png,0,1
+1698,2,6,Mifflin County,Mifflin County,https://www.google.com/,NULL,1698.png,0,1
+1699,2,6,Red Land,Red Land,https://www.google.com/,NULL,1699.png,0,1
+1700,2,6,Shippensburg,Shippensburg,https://www.google.com/,NULL,1700.png,0,1
+1701,2,6,State College,State College,https://www.google.com/,NULL,1701.png,0,1
+1702,2,6,Susquehanna Township,Susquehanna Township,https://www.google.com/,NULL,1702.png,0,1
+1703,2,6,Upper Dauphin,Upper Dauphin,https://www.google.com/,NULL,1703.png,0,1
+1704,2,6,Waynesboro,Waynesboro,https://www.google.com/,NULL,1704.png,0,1
+1705,2,6,West Perry,West Perry,https://www.google.com/,NULL,1705.png,0,1
+1706,1,1,Covenant Christian Academy,Covenant Christian Academy,https://www.google.com/,NULL,NULL,0,1
+1707,1,1,Veritas Academy,Veritas Academy,https://www.google.com/,NULL,NULL,0,1
+1708,2,6,Unionville,Unionville,http://www.google.com,NULL,NULL,0,1
+1709,2,6,Downingtown East,Downingtown East,http://google.com,NULL,NULL,0,1
+1710,2,6,Shalom Christian Academy,Shalom Christian Academy,https://www.google.com/,NULL,NULL,0,1
+1711,2,6,Covenant Christian Academy,Covenant Christian Academy,https://www.google.com/search?q=google&rlz=1C5CHFA_enUS1037US1055&oq=google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIHCAQQABiPAjIHCAUQABiPAjIGCAYQRRg8MgYIBxBFGDzSAQc1OTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8,NULL,NULL,0,1
+1712,2,6,Williams Valley,Williams Valley,https://www.google.com/,NULL,NULL,0,1
+1713,5,25,Mount Lebanon,Mount Lebanon,https://www.google.com/,NULL,NULL,0,1
+1714,5,25,Quaker Valley,Quaker Valley,https://www.google.com/,NULL,NULL,0,1
+1715,6,30,Northwestern Lehigh,Northwestern Lehigh,https://www.google.com/,NULL,NULL,0,1
+2715,5,25,Delaware County Christian,Delaware County Christian,https://www.google.com/,NULL,NULL,0,1
+2716,5,25,Wilson (Easton),Wilson (Easton),https://www.google.com/,NULL,2716.png,0,1
+2717,5,25,Upper Perkiomen,Upper Perkiomen,https://www.google.com/,NULL,NULL,0,1
+2718,5,25,Wallenpaupack,Wallenpaupack,https://www.google.com/,NULL,NULL,0,1
+2719,5,25,Honesdale,Honesdale,https://www.google.com/,NULL,NULL,0,1
+2720,1,1,High Point Baptist Academy,High Point Baptist Academy,https://www.google.com/,NULL,NULL,0,1
+2721,5,25,Norristown,Norristown,https://www.google.com/,NULL,NULL,0,1
+2722,6,30,Perkiomen Valley,Perkiomen Valley,https://www.google.com/,NULL,NULL,0,1
+2723,6,30,Norristown,Norristown,https://www.google.com/,NULL,NULL,0,1
+2724,3,15,Greenwood,Greenwood,http://www.google.com,NULL,NULL,0,1
+2725,3,15,Susquenita,Susquenita,https://www.google.com,NULL,NULL,0,1
+2726,5,25,Mars,Mars,https://www.google.com/,NULL,2726.png,0,1
+2727,5,25,WC Henderson,WC Henderson,https://www.google.com/,NULL,2727.png,0,1
+2728,1,1,Conestoga,Conestoga,https://www.conestogasoccer.com/,NULL,2728.png,0,1
+2729,4,20,Peters Twp,Peters Twp,http://www.google.com,NULL,2729.png,0,1
+2730,4,20,Lower Merion,Lower Merion,http://www.google.com,NULL,NULL,0,1
+2731,1,1,Fox Chapel,Fox Chapel,https://www.google.com/?client=safari&channel=ipad_bm,NULL,2731.png,0,1
+2732,5,25,Franklin Regional,Franklin Regional,https://www.google.com/,NULL,2732.png,0,1
+2733,5,25,Moon Area,Moon Area,https://www.google.com/,NULL,2733.png,0,1
